@@ -27,6 +27,6 @@ Four Turkish fashion brands (Companies F, G, H, M) were studied across five gree
 
 **Anonymisation:** company names are scrubbed from all file names and contents. Original source documents and the Turkish expert rater manual are excluded and available on request.
 
-**Requirements:** Google Colab, Python 3.10. OpenAI API keys loaded from Colab `userdata` secrets — no keys stored here. Packages: `openai`, `networkx`, `pandas`, `scipy`, `scikit-learn`.
+**Requirements:** Google Colab, Python 3.10. OpenAI API keys loaded from Colab `userdata` secrets. Packages: `openai`, `networkx`, `pandas`, `scipy`, `scikit-learn`.
 
 **Citation:** to be added upon publication.
