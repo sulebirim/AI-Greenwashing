@@ -1,0 +1,4673 @@
+{
+  "company_name": "Company M En",
+  "main_company": "Company M",
+  "total_nodes": 116,
+  "total_edges": 154,
+  "nodes": [
+    {
+      "id": "Company M",
+      "type": "Company",
+      "source_sentence": "Incorporated in Istanbul in 1991, today Company M is recognized as a highly successful, global lifestyle brand.",
+      "attributes": {
+        "incorporation_year": {
+          "value": "1991",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M was incorporated in Istanbul in 1991."
+        },
+        "incorporation_city": {
+          "value": "Istanbul",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was incorporated in Istanbul in 1991."
+        },
+        "country_count": {
+          "value": "34",
+          "unit": "countries",
+          "verifiable": true,
+          "source": "Company M has a presence in 34 countries."
+        },
+        "sales_points": {
+          "value": "4000",
+          "unit": "points",
+          "verifiable": true,
+          "source": "Company M sells through approximately 4,000 points."
+        },
+        "store_count": {
+          "value": "485",
+          "unit": "shops",
+          "verifiable": true,
+          "source": "Company M operates 485 Company M shops."
+        },
+        "new_customers_per_year": {
+          "value": "1",
+          "unit": "million",
+          "verifiable": true,
+          "source": "Company M gains 1 million new customers each year."
+        },
+        "global_rank": {
+          "value": "8",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was ranked 8th best company in sustainable growth in 2025 by TIME and Statista."
+        },
+        "ranking_year": {
+          "value": "2025",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M was ranked 8th best company in sustainable growth in 2025 by TIME and Statista."
+        },
+        "survey_conductors": {
+          "value": "TIME, Statista",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was ranked 8th best company in sustainable growth in 2025 by TIME and Statista."
+        },
+        "employee_count": {
+          "value": "5.872",
+          "unit": "people",
+          "verifiable": true,
+          "source": "Company M employs 5,872 employees worldwide."
+        },
+        "founding_year": {
+          "value": "1991",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M was founded in 1991."
+        },
+        "market_leader_country": {
+          "value": "Turkey",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M became the market leader in Turkey."
+        },
+        "region": {
+          "value": "US",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M US and Europe were founded."
+        },
+        "recognition_year": {
+          "value": "1996",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Time Magazine recognized Company M as the first Turkish brand to become an international brand in 1996."
+        },
+        "recognizing_body": {
+          "value": "Time Magazine",
+          "unit": null,
+          "verifiable": true,
+          "source": "Time Magazine recognized Company M as the first Turkish brand to become an international brand in 1996."
+        },
+        "store_cities": {
+          "value": "New York, Vancouver, Berlin, Frankfurt",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt."
+        },
+        "strategy_launch_year": {
+          "value": "2008",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M launched a retail strategy in 2008, transitioning from Company M Jeans to Company M."
+        },
+        "brand_transition": {
+          "value": "Company M Jeans to Company M",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M launched a retail strategy in 2008, transitioning from Company M Jeans to Company M."
+        },
+        "member_count": {
+          "value": "1",
+          "unit": "million",
+          "verifiable": true,
+          "source": "Company M’s loyalty program reached 1 million members in 2009."
+        },
+        "year": {
+          "value": "2022",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M was included in the 2022 Climate Change A List announced by CDP."
+        },
+        "award_title": {
+          "value": "best denim bottoms brand",
+          "unit": null,
+          "verifiable": true,
+          "source": "Sportswear Magazine announced Company M as the best denim bottoms brand in Germany."
+        },
+        "country": {
+          "value": "Germany",
+          "unit": null,
+          "verifiable": true,
+          "source": "Sportswear Magazine announced Company M as the best denim bottoms brand in Germany."
+        },
+        "launch_year": {
+          "value": "2024",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M launched the Wunder X Company M and Marché X Company M collections in 2024."
+        },
+        "anniversary_number": {
+          "value": "25",
+          "unit": "years",
+          "verifiable": true,
+          "source": "Company M celebrated its 25th anniversary in 2013."
+        },
+        "faces": {
+          "value": "Elsa Hosk, Jordan Barrettt, Lucky Blue Smith",
+          "unit": null,
+          "verifiable": true,
+          "source": "Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M in 2013."
+        },
+        "acquisition_target": {
+          "value": "US & Canada operations",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M acquired US & Canada operations in 2013."
+        },
+        "publication_year": {
+          "value": "2021",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M published its first sustainability report in 2021."
+        },
+        "stock_exchange": {
+          "value": "Borsa Istanbul",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M began trading on Borsa Istanbul on June 15, 2017, after its IPO."
+        },
+        "listing_date": {
+          "value": "June 15",
+          "unit": "date",
+          "verifiable": true,
+          "source": "Company M began trading on Borsa Istanbul on June 15, 2017, after its IPO."
+        },
+        "collaborator": {
+          "value": "Esra Gülmen",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M collaborated with Esra Gülmen to create the Esra Gülmen X Company M collection."
+        },
+        "first_in_country": {
+          "value": "DOĞRU",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M became the first and only Turkish company to report to the CDP Forests Program in Turkey in 2021."
+        },
+        "score": {
+          "value": "double A",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was the first and only Turkish apparel brand to make CDP’s Global “A” List with a double A score for Climate Change and Water Security reporting."
+        },
+        "certifying_body": {
+          "value": "CDP",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M became the first Turkish apparel brand to disclose its carbon footprint transparently and received a B score from CDP in 2019."
+        },
+        "initiative": {
+          "value": "Women’s Empowerment Principles (WEPs)",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M signed the Women’s Empowerment Principles (WEPs) joint initiative of UNGC and UN Women in 2020."
+        },
+        "store_type": {
+          "value": "eco‑store",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M opened its first eco‑store in Zorlu Shopping Mall in 2019."
+        },
+        "location": {
+          "value": "Zorlu Shopping Mall",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M opened its first eco‑store in Zorlu Shopping Mall in 2019."
+        },
+        "material": {
+          "value": "recycled plastic bottles",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M introduced jeans made from recycled plastic bottles in the Company M Pro Sport Repreve® collection in 2020."
+        },
+        "sustaibanility_concept": {
+          "value": "",
+          "unit": null,
+          "verifiable": true,
+          "source": "The “Company M Transformation” ad campaign was launched in 2020."
+        },
+        "material_types": {
+          "value": "organic, recycled, eco‑friendly",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M collaborated with Les Benjamins to create a sustainable collection using organic, recycled and eco‑friendly materials in 2020."
+        },
+        "partner_organizations": {
+          "value": "UNGC, UN Women",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M signed the Women’s Empowerment Principles (WEPs) joint initiative of UNGC and UN Women in 2020."
+        },
+        "sustainability_concept": {
+          "value": "",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M signed the Women’s Empowerment Principles (WEPs) joint initiative of UNGC and UN Women in 2020."
+        },
+        "programs": {
+          "value": "CDP Water Security, CDP Forests",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M submitted its first reports to the CDP Water Security and Forests Programs in 2020."
+        },
+        "report_year": {
+          "value": "2020",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M submitted its first reports to the CDP Water Security and Forests Programs in 2020."
+        },
+        "program": {
+          "value": "Better Cotton",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M became a member of the Better Cotton program."
+        },
+        "symbolic_use": {
+          "value": "uniform and symbol of unity",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M’s logo t‑shirts and sweatshirts became the uniform and symbol of unity in 2021."
+        },
+        "list_name": {
+          "value": "CDP’s Global “A” List",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was the first and only Turkish apparel brand to make CDP’s Global “A” List with a double A score for Climate Change and Water Security reporting."
+        },
+        "announcing_body": {
+          "value": "CDP",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was included in the 2022 Climate Change A List announced by CDP."
+        },
+        "partner": {
+          "value": "Kurtaran Ev",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M partnered with Kurtaran Ev to support rescue, treatment, sheltering, nourishment and adoption of stray animals."
+        },
+        "certified_fabric": {
+          "value": "Better Cotton",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M partnered with Freedom of Space to create an exclusive collection using Better Cotton‑certified fabrics."
+        },
+        "accessibility_feature": {
+          "value": "accessible to visually impaired users",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M.com and the Company M app were made accessible to visually impaired users in partnership with BlindLook."
+        },
+        "report_type": {
+          "value": "sustainability report",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M published its first sustainability report in 2021."
+        },
+        "index_name": {
+          "value": "BIST Sustainability 25 Index",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was included in the BIST Sustainability 25 Index."
+        },
+        "occasion": {
+          "value": "100th anniversary of the Republic of Turkey",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M designed the Company M 100 collection to celebrate the 100th anniversary of the Republic of Turkey in 2021."
+        },
+        "design_year": {
+          "value": "2021",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M designed the Company M 100 collection to celebrate the 100th anniversary of the Republic of Turkey in 2021."
+        },
+        "ranking": {
+          "value": "most trusted brand",
+          "unit": null,
+          "verifiable": true,
+          "source": "Future Bright research selected Company M as Turkey's most trusted brand."
+        },
+        "researcher": {
+          "value": "Future Bright",
+          "unit": null,
+          "verifiable": true,
+          "source": "Future Bright research selected Company M as Turkey's most trusted brand."
+        },
+        "reporting_areas": {
+          "value": "Climate Change, Water Security",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was the first and only Turkish apparel brand to make CDP’s Global “A” List with a double A score for Climate Change and Water Security reporting."
+        },
+        "target_type": {
+          "value": "greenhouse gas reduction",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M’s greenhouse gas reduction targets were approved by the Science Based Targets initiative (SBTi)."
+        },
+        "approving_body": {
+          "value": "Science Based Targets initiative (SBTi)",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M’s greenhouse gas reduction targets were approved by the Science Based Targets initiative (SBTi)."
+        },
+        "award_name": {
+          "value": "The Rivet Awards",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was awarded the “Most Sustainable Collection” for the fifth time by The Rivet Awards."
+        },
+        "award_category": {
+          "value": "Most Sustainable Collection",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was awarded the “Most Sustainable Collection” for the fifth time by The Rivet Awards."
+        },
+        "award_number": {
+          "value": "5",
+          "unit": "times",
+          "verifiable": true,
+          "source": "Company M was awarded the “Most Sustainable Collection” for the fifth time by The Rivet Awards."
+        },
+        "partners": {
+          "value": "SEMT, Marche",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M collaborated with SEMT and Marche to reach new customer segments."
+        },
+        "objective": {
+          "value": "reach new customer segments",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M collaborated with SEMT and Marche to reach new customer segments."
+        },
+        "rank": {
+          "value": "8",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was ranked 8th in the “World’s Best Companies – Sustainable Growth 2025” survey conducted by TIME and Statista."
+        },
+        "survey_name": {
+          "value": "World’s Best Companies – Sustainable Growth 2025",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was ranked 8th in the “World’s Best Companies – Sustainable Growth 2025” survey conducted by TIME and Statista."
+        },
+        "conducted_by": {
+          "value": "TIME, Statista",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M was ranked 8th in the “World’s Best Companies – Sustainable Growth 2025” survey conducted by TIME and Statista."
+        },
+        "collaboration_partner": {
+          "value": "Marché",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M launched the Wunder X Company M and Marché X Company M collections in 2024."
+        },
+        "subject_person": {
+          "value": "Ebrar Karakurt",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M partnered with Socrates to produce a short documentary about Ebrar Karakurt, which was featured during the Paris Olympics."
+        },
+        "event": {
+          "value": "Paris Olympics",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M partnered with Socrates to produce a short documentary about Ebrar Karakurt, which was featured during the Paris Olympics."
+        },
+        "assessment_type": {
+          "value": "double materiality",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M conducted its first double materiality assessment and launched the “Circularity in Fashion” project with Nivogo."
+        },
+        "project_name": {
+          "value": "Circularity in Fashion",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M conducted its first double materiality assessment and launched the “Circularity in Fashion” project with Nivogo."
+        },
+        "new_customers": {
+          "value": "1.5",
+          "unit": "million",
+          "verifiable": true,
+          "source": "Company M gained 1.5 million new customers and reached 10 million Kartuş users, then started developing the “Kartuş Genç” program for young customers."
+        },
+        "kartus_user_count": {
+          "value": "10",
+          "unit": "million",
+          "verifiable": true,
+          "source": "Company M gained 1.5 million new customers and reached 10 million Kartuş users, then started developing the “Kartuş Genç” program for young customers."
+        },
+        "new_program": {
+          "value": "Kartuş Genç",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M gained 1.5 million new customers and reached 10 million Kartuş users, then started developing the “Kartuş Genç” program for young customers."
+        },
+        "new_regions": {
+          "value": "Gulf countries, European markets",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M.com launched sites in Gulf countries and European markets as part of its globalization journey."
+        },
+        "supported_activities": {
+          "value": "rescue, treatment, sheltering, nourishment, adoption of stray animals",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M partnered with Kurtaran Ev to support rescue, treatment, sheltering, nourishment and adoption of stray animals."
+        }
+      }
+    },
+    {
+      "id": "Istanbul",
+      "type": "Location",
+      "source_sentence": "Incorporated in Istanbul in 1991, today Company M is recognized as a highly successful, global lifestyle brand.",
+      "attributes": {
+        "photographer": {
+          "value": "Martin Parr",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M published “Makers of Today's Istanbul” with photographs by Martin Parr in 2017."
+        },
+        "year": {
+          "value": "2017",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M published “Makers of Today's Istanbul” with photographs by Martin Parr in 2017."
+        }
+      }
+    },
+    {
+      "id": "Turkiye",
+      "type": "Location",
+      "source_sentence": "Company M has been publicly traded since 2017 and has a presence in 34 countries, including Turkiye, the USA, Canada, Germany, and Russia, selling its products through approximately ~4.000 points, including 485 Company M shops.",
+      "attributes": {}
+    },
+    {
+      "id": "USA",
+      "type": "Location",
+      "source_sentence": "Company M has been publicly traded since 2017 and has a presence in 34 countries, including Turkiye, the USA, Canada, Germany, and Russia, selling its products through approximately ~4.000 points, including 485 Company M shops.",
+      "attributes": {}
+    },
+    {
+      "id": "Canada",
+      "type": "Location",
+      "source_sentence": "Company M has been publicly traded since 2017 and has a presence in 34 countries, including Turkiye, the USA, Canada, Germany, and Russia, selling its products through approximately ~4.000 points, including 485 Company M shops.",
+      "attributes": {}
+    },
+    {
+      "id": "Germany",
+      "type": "Location",
+      "source_sentence": "Company M has been publicly traded since 2017 and has a presence in 34 countries, including Turkiye, the USA, Canada, Germany, and Russia, selling its products through approximately ~4.000 points, including 485 Company M shops.",
+      "attributes": {}
+    },
+    {
+      "id": "Russia",
+      "type": "Location",
+      "source_sentence": "Company M has been publicly traded since 2017 and has a presence in 34 countries, including Turkiye, the USA, Canada, Germany, and Russia, selling its products through approximately ~4.000 points, including 485 Company M shops.",
+      "attributes": {}
+    },
+    {
+      "id": "Company M shops",
+      "type": "Other",
+      "source_sentence": "Company M has been publicly traded since 2017 and has a presence in 34 countries, including Turkiye, the USA, Canada, Germany, and Russia, selling its products through approximately ~4.000 points, including 485 Company M shops.",
+      "attributes": {}
+    },
+    {
+      "id": "Perfect Fit",
+      "type": "Concept/Initiative",
+      "source_sentence": "Perfect Fit philosophy guides Company M in designing jeans that perfectly fit its customers’ lifestyles, body types, and quality expectations.",
+      "attributes": {}
+    },
+    {
+      "id": "Kartuş",
+      "type": "Concept/Initiative",
+      "source_sentence": "The loyalty program Kartuş, recognized as Turkiye’s best-in-class with more than 10 million members, serves as a key tool for Company M to analyze and leverage customer data.",
+      "attributes": {
+        "member_count": {
+          "value": "10",
+          "unit": "million",
+          "verifiable": true,
+          "source": "Company M’s loyalty program Kartuş has more than 10 million members."
+        }
+      }
+    },
+    {
+      "id": "TIME",
+      "type": "Organization",
+      "source_sentence": "Company M is the world's 8th best company in sustainable growth in 2025, according to a TIME and Statista survey, and the leader of the apparel category.",
+      "attributes": {}
+    },
+    {
+      "id": "Statista",
+      "type": "Organization",
+      "source_sentence": "Company M is the world's 8th best company in sustainable growth in 2025, according to a TIME and Statista survey, and the leader of the apparel category.",
+      "attributes": {}
+    },
+    {
+      "id": "All Blue",
+      "type": "Concept/Initiative",
+      "source_sentence": "In line with its global strategy, All Blue, built on sustainable growth through quality, the company integrates sustainability into its corporate culture, vision, products, and growth targets.",
+      "attributes": {
+        "launch_year": {
+          "value": "2018",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M introduced the eco‑friendly All Blue collection as part of the Global All Blue strategy in 2018."
+        },
+        "strategy": {
+          "value": "Global All Blue",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M introduced the eco‑friendly All Blue collection as part of the Global All Blue strategy in 2018."
+        },
+        "sustainability_attribute": {
+          "value": "eco‑friendly",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M introduced the eco‑friendly All Blue collection as part of the Global All Blue strategy in 2018."
+        },
+        "sub_collections": {
+          "value": "Company M Archive, Natural Dye, Recycle Blue",
+          "unit": null,
+          "verifiable": true,
+          "source": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections."
+        },
+        "new_sub_collections": {
+          "value": "Regenerative Jeans Collection, MT1012 R3‑IMAGINED for Company M Collection",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M added the Regenerative Jeans Collection (made with regenerative cotton) and the MT1012 R3‑IMAGINED for Company M Collection (upcycling approach) to the All Blue collection in 2024."
+        },
+        "material_regenerative_jeans": {
+          "value": "regenerative cotton",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M added the Regenerative Jeans Collection (made with regenerative cotton) and the MT1012 R3‑IMAGINED for Company M Collection (upcycling approach) to the All Blue collection in 2024."
+        },
+        "design_approach_mt1012": {
+          "value": "upcycling",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M added the Regenerative Jeans Collection (made with regenerative cotton) and the MT1012 R3‑IMAGINED for Company M Collection (upcycling approach) to the All Blue collection in 2024."
+        },
+        "year": {
+          "value": "2024",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M added the Regenerative Jeans Collection (made with regenerative cotton) and the MT1012 R3‑IMAGINED for Company M Collection (upcycling approach) to the All Blue collection in 2024."
+        }
+      }
+    },
+    {
+      "id": "Adriano Goldschmied",
+      "type": "Person",
+      "source_sentence": "— Designer Adriano Goldschmied contributes to the designs of both the Molly & Max fits.",
+      "attributes": {
+        "collection": {
+          "value": "Indigo Move Premium Collection",
+          "unit": null,
+          "verifiable": true,
+          "source": "Adriano Goldschmied contributed to the launch of the Indigo Move Premium Collection in 2013."
+        },
+        "year": {
+          "value": "2013",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Adriano Goldschmied contributed to the launch of the Indigo Move Premium Collection in 2013."
+        }
+      }
+    },
+    {
+      "id": "Molly",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Designer Adriano Goldschmied contributes to the designs of both the Molly & Max fits.",
+      "attributes": {}
+    },
+    {
+      "id": "Max",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Designer Adriano Goldschmied contributes to the designs of both the Molly & Max fits.",
+      "attributes": {}
+    },
+    {
+      "id": "Time Magazine",
+      "type": "Organization",
+      "source_sentence": "1996 — Time Magazine recognized Company M as the first Turkish brand to become an international brand.",
+      "attributes": {}
+    },
+    {
+      "id": "New York",
+      "type": "Location",
+      "source_sentence": "— The first flagship stores were opened in New York, Vancouver, Berlin and Frankfurt.",
+      "attributes": {}
+    },
+    {
+      "id": "Vancouver",
+      "type": "Location",
+      "source_sentence": "— The first flagship stores were opened in New York, Vancouver, Berlin and Frankfurt.",
+      "attributes": {}
+    },
+    {
+      "id": "Berlin",
+      "type": "Location",
+      "source_sentence": "— The first flagship stores were opened in New York, Vancouver, Berlin and Frankfurt.",
+      "attributes": {}
+    },
+    {
+      "id": "Frankfurt",
+      "type": "Location",
+      "source_sentence": "— The first flagship stores were opened in New York, Vancouver, Berlin and Frankfurt.",
+      "attributes": {}
+    },
+    {
+      "id": "Turkish Private Equity Fund II",
+      "type": "Organization",
+      "source_sentence": "∙ Turkish Private Equity Fund II invested in Company M.",
+      "attributes": {
+        "investment_target": {
+          "value": "Company M",
+          "unit": null,
+          "verifiable": true,
+          "source": "Turkish Private Equity Fund II invested in Company M."
+        }
+      }
+    },
+    {
+      "id": "Company M Jeans",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Launch of retail strategy; transition from Company M Jeans to Company M and focus on growth in lifestyle categories.",
+      "attributes": {}
+    },
+    {
+      "id": "Adriana Lima",
+      "type": "Person",
+      "source_sentence": "2009 ∙ Supermodel Adriana Lima became the face of Company M",
+      "attributes": {
+        "role": {
+          "value": "face of Company M",
+          "unit": null,
+          "verifiable": true,
+          "source": "Adriana Lima became the face of Company M in 2009."
+        },
+        "year": {
+          "value": "2009",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Adriana Lima became the face of Company M in 2009."
+        }
+      }
+    },
+    {
+      "id": "Sportswear Magazine",
+      "type": "Organization",
+      "source_sentence": "∙ Sportswear Magazine announced Company M as the best denim bottoms brand in Germany.",
+      "attributes": {}
+    },
+    {
+      "id": "Denim Kitchen",
+      "type": "Concept/Initiative",
+      "source_sentence": "∙ New ‘Denim Kitchen’ retail concept launched.",
+      "attributes": {
+        "launch_year": {
+          "value": "2009",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M introduced the Denim Kitchen retail concept."
+        }
+      }
+    },
+    {
+      "id": "Company M Gold collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "∙ The Company M Gold collection was born.",
+      "attributes": {}
+    },
+    {
+      "id": "Hussein Chalayan Gold Series",
+      "type": "Product/Product_Line",
+      "source_sentence": "This series provided the total premium look with the launch of the Hussein Chalayan Gold Series.",
+      "attributes": {
+        "associated_collection": {
+          "value": "Company M Gold",
+          "unit": null,
+          "verifiable": true,
+          "source": "Hussein Chalayan Gold Series was launched as part of the Company M Gold collection."
+        }
+      }
+    },
+    {
+      "id": "Barbara Palvin",
+      "type": "Person",
+      "source_sentence": "∙ Model Barbara Palvin became the face of Company M.",
+      "attributes": {}
+    },
+    {
+      "id": "Company M e-commerce site",
+      "type": "Technology",
+      "source_sentence": "∙ Company M e-commerce site launched.",
+      "attributes": {}
+    },
+    {
+      "id": "Elsa Hosk",
+      "type": "Person",
+      "source_sentence": "∙ Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M.",
+      "attributes": {}
+    },
+    {
+      "id": "Jordan Barrettt",
+      "type": "Person",
+      "source_sentence": "∙ Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M.",
+      "attributes": {}
+    },
+    {
+      "id": "Lucky Blue Smith",
+      "type": "Person",
+      "source_sentence": "∙ Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M.",
+      "attributes": {}
+    },
+    {
+      "id": "Indigo Move Premium Collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "∙ Designer Adriano Goldschmied contributed to the launch of the Indigo Move Premium Collection.",
+      "attributes": {}
+    },
+    {
+      "id": "Richard Branson",
+      "type": "Person",
+      "source_sentence": "∙ Richard Branson participated in the space shuttle launch wearing Company M jeans.",
+      "attributes": {
+        "activity": {
+          "value": "wore Company M jeans during space shuttle launch",
+          "unit": null,
+          "verifiable": true,
+          "source": "Richard Branson wore Company M jeans during a space shuttle launch."
+        }
+      }
+    },
+    {
+      "id": "Kartus",
+      "type": "Concept/Initiative",
+      "source_sentence": "∙ Company M's loyalty program, Kartus, reached 5,7 million members.",
+      "attributes": {
+        "member_count": {
+          "value": "5.7",
+          "unit": "million",
+          "verifiable": true,
+          "source": "Company M's loyalty program Kartus reached 5.7 million members."
+        }
+      }
+    },
+    {
+      "id": "Kıvanç Tatlıtuğ",
+      "type": "Person",
+      "source_sentence": "∙ Kıvanç Tatlıtuğ legend at Company M continues from where it left off.",
+      "attributes": {}
+    },
+    {
+      "id": "Company M Anthology",
+      "type": "Other",
+      "source_sentence": "∙ Published “Company M Anthology” illuminating Company M’s unique history with an account of its 25-year branding story.",
+      "attributes": {}
+    },
+    {
+      "id": "Harvard Business School",
+      "type": "Organization",
+      "source_sentence": "∙ Company M’s growth strategy became a course subject at Harvard Business School.",
+      "attributes": {
+        "course_subject": {
+          "value": "Company M’s growth strategy",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M’s growth strategy became a course subject at Harvard Business School in 2016."
+        },
+        "year": {
+          "value": "2016",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M’s growth strategy became a course subject at Harvard Business School in 2016."
+        }
+      }
+    },
+    {
+      "id": "Romee Strijd",
+      "type": "Person",
+      "source_sentence": "— Romee Strijd becomes the global face of the brand.",
+      "attributes": {
+        "role": {
+          "value": "global face of Company M",
+          "unit": null,
+          "verifiable": true,
+          "source": "Romee Strijd became the global face of Company M in 2016."
+        },
+        "year": {
+          "value": "2016",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Romee Strijd became the global face of Company M in 2016."
+        }
+      }
+    },
+    {
+      "id": "Makers of Today's Istanbul",
+      "type": "Other",
+      "source_sentence": "— Published Makers of Today's Istanbul with photographs by Martin Parr.",
+      "attributes": {}
+    },
+    {
+      "id": "Martin Parr",
+      "type": "Person",
+      "source_sentence": "— Published Makers of Today's Istanbul with photographs by Martin Parr.",
+      "attributes": {}
+    },
+    {
+      "id": "Borsa Istanbul",
+      "type": "Organization",
+      "source_sentence": "— Began trading on Borsa Istanbul on June 15 following IPO.",
+      "attributes": {}
+    },
+    {
+      "id": "Serenay Sarıkaya",
+      "type": "Person",
+      "source_sentence": "— Launched Serenay X Company M Icon collection with Serenay Sarıkaya.",
+      "attributes": {}
+    },
+    {
+      "id": "Serenay X Company M Icon collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Launched Serenay X Company M Icon collection with Serenay Sarıkaya.",
+      "attributes": {}
+    },
+    {
+      "id": "Tencel",
+      "type": "Supplier",
+      "source_sentence": "— Created Super Soft denim products in collaboration with Tencel.",
+      "attributes": {}
+    },
+    {
+      "id": "Super Soft denim",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Created Super Soft denim products in collaboration with Tencel.",
+      "attributes": {
+        "collaborator": {
+          "value": "Tencel",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M created Super Soft denim products in collaboration with Tencel in 2017."
+        },
+        "launch_year": {
+          "value": "2017",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M created Super Soft denim products in collaboration with Tencel in 2017."
+        }
+      }
+    },
+    {
+      "id": "Company M Black Pro collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Company M Black Pro collection created.",
+      "attributes": {}
+    },
+    {
+      "id": "Company M App",
+      "type": "Technology",
+      "source_sentence": "— Company M App, Company M’s mobile app, went live.",
+      "attributes": {}
+    },
+    {
+      "id": "Merih Demiral",
+      "type": "Person",
+      "source_sentence": "— Merih Demiral who is a star player of turkish national football team and Juventus became the brand face of the sporty line of Company M.",
+      "attributes": {
+        "role": {
+          "value": "face of sporty line",
+          "unit": null,
+          "verifiable": true,
+          "source": "Merih Demiral, a star player of the Turkish national football team and Juventus, became the face of Company M’s sporty line in 2019."
+        },
+        "year": {
+          "value": "2019",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Merih Demiral, a star player of the Turkish national football team and Juventus, became the face of Company M’s sporty line in 2019."
+        }
+      }
+    },
+    {
+      "id": "Turkish national football team",
+      "type": "Organization",
+      "source_sentence": "— Merih Demiral who is a star player of turkish national football team and Juventus became the brand face of the sporty line of Company M.",
+      "attributes": {}
+    },
+    {
+      "id": "Juventus",
+      "type": "Organization",
+      "source_sentence": "— Merih Demiral who is a star player of turkish national football team and Juventus became the brand face of the sporty line of Company M.",
+      "attributes": {}
+    },
+    {
+      "id": "CDP",
+      "type": "Organization",
+      "source_sentence": "— Became the fırst Turkish apparel brand to disclose its carbon footprint transparently, received the score of B with the report that Company M submitted to the climate change program, run by CDP.",
+      "attributes": {}
+    },
+    {
+      "id": "UN Global Compact",
+      "type": "Organization",
+      "source_sentence": "— Became a signatory of the UN Global Compact, the world’s largest corporate sustainability initiative.",
+      "attributes": {}
+    },
+    {
+      "id": "Zorlu Shopping Mall",
+      "type": "Location",
+      "source_sentence": "— Designed a sustainable store concept, opened its first eco-store in Zorlu Shopping Mall.",
+      "attributes": {}
+    },
+    {
+      "id": "Company M Pro Sport Repreve® collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Jeans made from recycled plastic bottles were introduced with the Company M Pro Sport Repreve® collection and the “Company M Transformation Launched” ad campaign was launched.",
+      "attributes": {}
+    },
+    {
+      "id": "Company M Transformation",
+      "type": "Concept/Initiative",
+      "source_sentence": "— Jeans made from recycled plastic bottles were introduced with the Company M Pro Sport Repreve® collection and the “Company M Transformation Launched” ad campaign was launched.",
+      "attributes": {}
+    },
+    {
+      "id": "Les Benjamins",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "— The sustainable Les Benjamins x Company M collection was designed and produced with organic, recycled, and eco-friendly materials in collaboration with the luxury streetwear brand Les Benjamins.",
+      "attributes": {}
+    },
+    {
+      "id": "Les Benjamins x Company M collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "— The sustainable Les Benjamins x Company M collection was designed and produced with organic, recycled, and eco-friendly materials in collaboration with the luxury streetwear brand Les Benjamins.",
+      "attributes": {}
+    },
+    {
+      "id": "Women's Empowerment Principles",
+      "type": "Concept/Initiative",
+      "source_sentence": "— Women's Empowerment Principles (WEPs), the joint initiative of UNGC and UN Women, was signed.",
+      "attributes": {}
+    },
+    {
+      "id": "UNGC",
+      "type": "Organization",
+      "source_sentence": "— Women's Empowerment Principles (WEPs), the joint initiative of UNGC and UN Women, was signed.",
+      "attributes": {}
+    },
+    {
+      "id": "UN Women",
+      "type": "Organization",
+      "source_sentence": "— Women's Empowerment Principles (WEPs), the joint initiative of UNGC and UN Women, was signed.",
+      "attributes": {}
+    },
+    {
+      "id": "CDP Water Security Program",
+      "type": "Program",
+      "source_sentence": "— First reports were submitted to the CDP Water Security and Forests Programs.",
+      "attributes": {}
+    },
+    {
+      "id": "CDP Forests Program",
+      "type": "Program",
+      "source_sentence": "— First reports were submitted to the CDP Water Security and Forests Programs.",
+      "attributes": {}
+    },
+    {
+      "id": "Together, We Are So Beautiful",
+      "type": "Concept/Initiative",
+      "source_sentence": "— The brand celebrated the special bond it has built with women over the years with the “Together, We Are So Beautiful” campaign.",
+      "attributes": {
+        "launch_year": {
+          "value": "2021",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M launched the “Together, We Are So Beautiful” campaign in 2021."
+        }
+      }
+    },
+    {
+      "id": "Climate Change A List",
+      "type": "Certification",
+      "source_sentence": "— Company M became the first and only apparel brand from Turkey to be included in the 2022 Climate Change A List, announced by CDP",
+      "attributes": {}
+    },
+    {
+      "id": "Hemp Denim",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Hemp Denim, the most sustainable jeans of Company M, was made with hemp fibers that consume minimum water, recycled cotton and bio‑based nutshell buttons.",
+      "attributes": {
+        "fabric_type": {
+          "value": "hemp fibers",
+          "unit": null,
+          "verifiable": true,
+          "source": "Hemp Denim was made with hemp fibers, recycled cotton and bio‑based nutshell buttons, using minimum water."
+        },
+        "secondary_material": {
+          "value": "recycled cotton",
+          "unit": null,
+          "verifiable": true,
+          "source": "Hemp Denim was made with hemp fibers, recycled cotton and bio‑based nutshell buttons, using minimum water."
+        },
+        "button_material": {
+          "value": "bio‑based nutshell",
+          "unit": null,
+          "verifiable": true,
+          "source": "Hemp Denim was made with hemp fibers, recycled cotton and bio‑based nutshell buttons, using minimum water."
+        },
+        "water_usage": {
+          "value": "minimum",
+          "unit": null,
+          "verifiable": true,
+          "source": "Hemp Denim was made with hemp fibers, recycled cotton and bio‑based nutshell buttons, using minimum water."
+        }
+      }
+    },
+    {
+      "id": "Esra Gülmen",
+      "type": "Person",
+      "source_sentence": "— The collaborative Esra Gülmen X Company M collection, featuring environment friendly, wearable pieces of art, was created.",
+      "attributes": {}
+    },
+    {
+      "id": "Esra Gülmen X Company M collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "— The collaborative Esra Gülmen X Company M collection, featuring environment friendly, wearable pieces of art, was created.",
+      "attributes": {}
+    },
+    {
+      "id": "Freedom of Space",
+      "type": "Organization",
+      "source_sentence": "— Company M and Freedom of Space partnered to create an exclusive collection with sustainable Better Cotton‑certified fabrics, innovative printing techniques and sustainable trims.",
+      "attributes": {}
+    },
+    {
+      "id": "Better Cotton",
+      "type": "Certification",
+      "source_sentence": "— Company M and Freedom of Space partnered to create an exclusive collection with sustainable Better Cotton‑certified fabrics, innovative printing techniques and sustainable trims.",
+      "attributes": {}
+    },
+    {
+      "id": "BlindLook",
+      "type": "Organization",
+      "source_sentence": "— Company M.com and Company M app made accessible to the visually impaired users in partnership with BlindLook.",
+      "attributes": {}
+    },
+    {
+      "id": "BIST Sustainability 25 Index",
+      "type": "Certification",
+      "source_sentence": "— Included in the BIST Sustainability 25 Index, whose constituents are publicly traded companies with high sustainability performance.",
+      "attributes": {}
+    },
+    {
+      "id": "Company M 100 collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Company M designed the Company M 100 collection, reflecting the pride of the 100th anniversary of the Republic of Turkey.",
+      "attributes": {}
+    },
+    {
+      "id": "Republic of Turkey",
+      "type": "Organization",
+      "source_sentence": "— Company M designed the Company M 100 collection, reflecting the pride of the 100th anniversary of the Republic of Turkey.",
+      "attributes": {}
+    },
+    {
+      "id": "Jean. A legend. An icon.",
+      "type": "Concept/Initiative",
+      "source_sentence": "— The brand brought together the brand faces Kıvanç Tatlıtuğ and Serenay Sarıkaya for the first time in the 'Jean. A legend. An icon.' advertising campaign.",
+      "attributes": {
+        "faces": {
+          "value": "Kıvanç Tatlıtuğ, Serenay Sarıkaya",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M launched the ‘Jean. A legend. An icon.’ advertising campaign featuring Kıvanç Tatlıtuğ and Serenay Sarıkaya in 2021."
+        },
+        "launch_year": {
+          "value": "2021",
+          "unit": "year",
+          "verifiable": true,
+          "source": "Company M launched the ‘Jean. A legend. An icon.’ advertising campaign featuring Kıvanç Tatlıtuğ and Serenay Sarıkaya in 2021."
+        }
+      }
+    },
+    {
+      "id": "Future Bright",
+      "type": "Organization",
+      "source_sentence": "— According to the research conducted by Future Bright, it was selected as Turkey's most trusted brand.",
+      "attributes": {}
+    },
+    {
+      "id": "Science Based Targets initiative (SBTi)",
+      "type": "Organization",
+      "source_sentence": "— Company M's greenhouse gas reduction targets were approved by the Science Based Targets initiative (SBTi).",
+      "attributes": {}
+    },
+    {
+      "id": "Sustainable All Blue collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Within the Sustainable All Blue collection, Company M Archive, Natural Dye, and Recycle Blue collections were created.",
+      "attributes": {}
+    },
+    {
+      "id": "Company M Archive",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Within the Sustainable All Blue collection, Company M Archive, Natural Dye, and Recycle Blue collections were created.",
+      "attributes": {}
+    },
+    {
+      "id": "Natural Dye",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Within the Sustainable All Blue collection, Company M Archive, Natural Dye, and Recycle Blue collections were created.",
+      "attributes": {}
+    },
+    {
+      "id": "Recycle Blue",
+      "type": "Product/Product_Line",
+      "source_sentence": "— Within the Sustainable All Blue collection, Company M Archive, Natural Dye, and Recycle Blue collections were created.",
+      "attributes": {}
+    },
+    {
+      "id": "The Rivet Awards",
+      "type": "Award",
+      "source_sentence": "— Company M was awarded the \"Most Sustainable Collection\" for the fifth time by The Rivet Awards.",
+      "attributes": {}
+    },
+    {
+      "id": "SEMT",
+      "type": "Organization",
+      "source_sentence": "— Collaborations with SEMT and Marche, Company M reached out to brand new customer segments.",
+      "attributes": {}
+    },
+    {
+      "id": "Marche",
+      "type": "Organization",
+      "source_sentence": "— Collaborations with SEMT and Marche, Company M reached out to brand new customer segments.",
+      "attributes": {}
+    },
+    {
+      "id": "SosyalBen Hope Truck project",
+      "type": "Project",
+      "source_sentence": "— As the main supporter of the SosyalBen Hope Truck project, brought hope to children in earthquake‑stricken areas.",
+      "attributes": {}
+    },
+    {
+      "id": "SosyalBen Foundation",
+      "type": "Organization",
+      "source_sentence": "— The partnership between Company M and the SosyalBen Foundation, which began with the Hope Truck project, became a long‑term initiative with the launch of Skill Development Centers (BEGEM), which aim to support the psychosocial well‑being of children affected by the earthquake and to help prevent the loss of physical and social skills.",
+      "attributes": {
+        "initiative": {
+          "value": "Skill Development Centers (BEGEM)",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M and the SosyalBen Foundation expanded the Hope Truck project into a long‑term initiative with Skill Development Centers (BEGEM)."
+        },
+        "objective": {
+          "value": "support psychosocial well‑being of children affected by the earthquake",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M and the SosyalBen Foundation expanded the Hope Truck project into a long‑term initiative with Skill Development Centers (BEGEM)."
+        }
+      }
+    },
+    {
+      "id": "Skill Development Centers (BEGEM)",
+      "type": "Project",
+      "source_sentence": "— The partnership between Company M and the SosyalBen Foundation, which began with the Hope Truck project, became a long‑term initiative with the launch of Skill Development Centers (BEGEM), which aim to support the psychosocial well‑being of children affected by the earthquake and to help prevent the loss of physical and social skills.",
+      "attributes": {}
+    },
+    {
+      "id": "Kurtaran Ev",
+      "type": "Organization",
+      "source_sentence": "— Company M partnered with Kurtaran Ev to support the association’s efforts for the rescue, treatment, sheltering, nourishment, and adoption of stray animals.",
+      "attributes": {}
+    },
+    {
+      "id": "Çok Olmak Lazım Bazen",
+      "type": "Concept/Initiative",
+      "source_sentence": "— The ad campaigns - “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ, and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya – were successful examples of creative communications that the brand is known for.",
+      "attributes": {
+        "partner": {
+          "value": "Kıvanç Tatlıtuğ",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya."
+        },
+        "campaign_2": {
+          "value": "Biraz Jean mi Konuşsak?",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya."
+        },
+        "partner_2": {
+          "value": "Serenay Sarıkaya",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya."
+        }
+      }
+    },
+    {
+      "id": "Biraz Jean mi Konuşsak?",
+      "type": "Concept/Initiative",
+      "source_sentence": "— The ad campaigns - “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ, and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya – were successful examples of creative communications that the brand is known for.",
+      "attributes": {}
+    },
+    {
+      "id": "Socrates",
+      "type": "Organization",
+      "source_sentence": "— Company M partnered with Socrates for the short documentary telling Ebrar Karakurt’s inspiring story.",
+      "attributes": {}
+    },
+    {
+      "id": "Ebrar Karakurt",
+      "type": "Person",
+      "source_sentence": "— Company M partnered with Socrates for the short documentary telling Ebrar Karakurt’s inspiring story.",
+      "attributes": {}
+    },
+    {
+      "id": "Paris Olympics",
+      "type": "Event",
+      "source_sentence": "The documentary was featured in international fashion publications during the Paris Olympics.",
+      "attributes": {}
+    },
+    {
+      "id": "Circularity in Fashion",
+      "type": "Project",
+      "source_sentence": "— Company M conducted its first double materiality assessment and launched the “Circularity in Fashion” project in partnership with Nivogo, a leading European circular economy startup.",
+      "attributes": {}
+    },
+    {
+      "id": "Nivogo",
+      "type": "Organization",
+      "source_sentence": "— Company M conducted its first double materiality assessment and launched the “Circularity in Fashion” project in partnership with Nivogo, a leading European circular economy startup.",
+      "attributes": {}
+    },
+    {
+      "id": "Kartuş Genç",
+      "type": "Program",
+      "source_sentence": "Company M also started to develop the “Kartuş Genç” program specifically for the young customer segment.",
+      "attributes": {}
+    },
+    {
+      "id": "Gulf countries",
+      "type": "Location",
+      "source_sentence": "Company M.com marked a major milestone in its globalisation journey with sites launched in the Gulf countries and European markets.",
+      "attributes": {}
+    },
+    {
+      "id": "European markets",
+      "type": "Location",
+      "source_sentence": "Company M.com marked a major milestone in its globalisation journey with sites launched in the Gulf countries and European markets.",
+      "attributes": {}
+    },
+    {
+      "id": "Wunder X Company M",
+      "type": "Product/Product_Line",
+      "source_sentence": "— The collaborative Wunder X Company M and Marché X Company M collections, inspired by street 2024",
+      "attributes": {}
+    },
+    {
+      "id": "Marché X Company M",
+      "type": "Product/Product_Line",
+      "source_sentence": "— The collaborative Wunder X Company M and Marché X Company M collections, inspired by street 2024",
+      "attributes": {}
+    },
+    {
+      "id": "STMT_1",
+      "type": "FactualStatement",
+      "statement": "Company M has a presence in 34 countries.",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "source_sentence": "Company M has been publicly traded since 2017 and has a presence in 34 countries, including Turkiye, the USA, Canada, Germany, and Russia, selling its products through approximately ~4.000 points, including 485 Company M shops.",
+      "structured_attributes": [
+        {
+          "attribute_name": "country_count",
+          "attribute_value": "34",
+          "attribute_unit": "countries"
+        }
+      ]
+    },
+    {
+      "id": "STMT_2",
+      "type": "FactualStatement",
+      "statement": "Company M sells through approximately 4,000 points.",
+      "category": "Metric",
+      "is_verifiable": true,
+      "source_sentence": "Company M has been publicly traded since 2017 and has a presence in 34 countries, including Turkiye, the USA, Canada, Germany, and Russia, selling its products through approximately ~4.000 points, including 485 Company M shops.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sales_points",
+          "attribute_value": "4000",
+          "attribute_unit": "points"
+        }
+      ]
+    },
+    {
+      "id": "STMT_5",
+      "type": "FactualStatement",
+      "statement": "Company M gains 1 million new customers each year.",
+      "category": "Metric",
+      "is_verifiable": true,
+      "source_sentence": "Company M has a unique brand position with fashion-savvy young adults and continues to gain 1 million new customers every year with its vision of creating the Happiest Company M Customers.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_customers_per_year",
+          "attribute_value": "1",
+          "attribute_unit": "million"
+        }
+      ]
+    },
+    {
+      "id": "STMT_7",
+      "type": "FactualStatement",
+      "statement": "Company M employs 5,872 employees worldwide.",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "source_sentence": "A global team of 5.872 employees, whose hearts beat with denim, work passionately to develop the world’s best and most innovative jeans, driving Company M to the future on a path focused on people, planet, denim, and community",
+      "structured_attributes": [
+        {
+          "attribute_name": "employee_count",
+          "attribute_value": "5.872",
+          "attribute_unit": "people"
+        }
+      ]
+    },
+    {
+      "id": "STMT_8",
+      "type": "FactualStatement",
+      "statement": "Company M was founded in 1991.",
+      "category": "History",
+      "is_verifiable": true,
+      "source_sentence": "— Company M (which means 'blue' in Turkish) is founded 1991",
+      "structured_attributes": [
+        {
+          "attribute_name": "founding_year",
+          "attribute_value": "1991",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "id": "STMT_9",
+      "type": "FactualStatement",
+      "statement": "Company M became the market leader in Turkey.",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "source_sentence": "— Company M became the market leader in Turkey",
+      "structured_attributes": [
+        {
+          "attribute_name": "market_leader_country",
+          "attribute_value": "Turkey",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_10",
+      "type": "FactualStatement",
+      "statement": "Company M US and Europe were founded.",
+      "category": "History",
+      "is_verifiable": true,
+      "source_sentence": "— Company M US and Europe are founded.",
+      "structured_attributes": [
+        {
+          "attribute_name": "region",
+          "attribute_value": "US",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_15",
+      "type": "FactualStatement",
+      "statement": "Company M’s loyalty program reached 1 million members in 2009.",
+      "category": "Metric",
+      "is_verifiable": true,
+      "source_sentence": "∙ Loyalty Program launched at the end of 2007, reaching 1M members in 2009.",
+      "structured_attributes": [
+        {
+          "attribute_name": "member_count",
+          "attribute_value": "1",
+          "attribute_unit": "million"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2009",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "id": "STMT_21",
+      "type": "FactualStatement",
+      "statement": "Company M launched its e‑commerce site in 2012.",
+      "category": "Technology",
+      "is_verifiable": true,
+      "source_sentence": "∙ Company M e-commerce site launched.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2012",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "id": "STMT_22",
+      "type": "FactualStatement",
+      "statement": "Company M celebrated its 25th anniversary in 2013.",
+      "category": "Event",
+      "is_verifiable": true,
+      "source_sentence": "2013 ∙ Company M celebrated its 25th anniversary.",
+      "structured_attributes": [
+        {
+          "attribute_name": "anniversary_number",
+          "attribute_value": "25",
+          "attribute_unit": "years"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "id": "STMT_39",
+      "type": "FactualStatement",
+      "statement": "Company M became the first Turkish apparel brand to disclose its carbon footprint transparently and received a B score from CDP in 2019.",
+      "category": "Certification, Sustainability",
+      "is_verifiable": true,
+      "source_sentence": "— Became the fırst Turkish apparel brand to disclose its carbon footprint transparently, received the score of B with the report that Company M submitted to the climate change program, run by CDP.",
+      "structured_attributes": [
+        {
+          "attribute_name": "first_in_country",
+          "attribute_value": "DOĞRU",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "score",
+          "attribute_value": "B",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "certifying_body",
+          "attribute_value": "CDP",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "id": "STMT_46",
+      "type": "FactualStatement",
+      "statement": "Company M submitted its first reports to the CDP Water Security and Forests Programs in 2020.",
+      "category": "Sustainability, Process",
+      "is_verifiable": true,
+      "source_sentence": "— First reports were submitted to the CDP Water Security and Forests Programs.",
+      "structured_attributes": [
+        {
+          "attribute_name": "programs",
+          "attribute_value": "CDP Water Security, CDP Forests",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "report_year",
+          "attribute_value": "2020",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "id": "STMT_49",
+      "type": "FactualStatement",
+      "statement": "Company M’s logo t‑shirts and sweatshirts became the uniform and symbol of unity in 2021.",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "source_sentence": "— Company M logo t-shirts and sweatshirts became the uniform and symbol of unity.",
+      "structured_attributes": [
+        {
+          "attribute_name": "symbolic_use",
+          "attribute_value": "uniform and symbol of unity",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "id": "STMT_56",
+      "type": "FactualStatement",
+      "statement": "Company M published its first sustainability report in 2021.",
+      "category": "Sustainability, Document",
+      "is_verifiable": true,
+      "source_sentence": "— First sustainability report published.",
+      "structured_attributes": [
+        {
+          "attribute_name": "report_type",
+          "attribute_value": "sustainability report",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "publication_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "id": "STMT_61",
+      "type": "FactualStatement",
+      "statement": "Company M was the first and only Turkish apparel brand to make CDP’s Global “A” List with a double A score for Climate Change and Water Security reporting.",
+      "category": "Certification, Sustainability",
+      "is_verifiable": true,
+      "source_sentence": "— Company M is the first and only Turkish apparel brand to make the CDP’s Global \"A\" List with a double A score for its Climate Change and Water Security reporting.",
+      "structured_attributes": [
+        {
+          "attribute_name": "list_name",
+          "attribute_value": "CDP’s Global “A” List",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "score",
+          "attribute_value": "double A",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "reporting_areas",
+          "attribute_value": "Climate Change, Water Security",
+          "attribute_unit": null
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Company M",
+      "target": "Istanbul",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company M began trading on Borsa Istanbul on June 15, 2017, after its IPO.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Borsa Istanbul",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "listing_date",
+          "attribute_value": "June 15",
+          "attribute_unit": "date"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_1",
+      "relationship": "has_claim",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M has a presence in 34 countries.",
+      "structured_attributes": [
+        {
+          "attribute_name": "country_count",
+          "attribute_value": "34",
+          "attribute_unit": "countries"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_2",
+      "relationship": "has_claim",
+      "category": "Metric",
+      "is_verifiable": true,
+      "statement": "Company M sells through approximately 4,000 points.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sales_points",
+          "attribute_value": "4000",
+          "attribute_unit": "points"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M shops",
+      "relationship": "related_to",
+      "category": "Metric",
+      "is_verifiable": true,
+      "statement": "Company M operates 485 Company M shops.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_count",
+          "attribute_value": "485",
+          "attribute_unit": "shops"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Kartuş",
+      "relationship": "related_to",
+      "category": "Metric",
+      "is_verifiable": true,
+      "statement": "Company M gained 1.5 million new customers and reached 10 million Kartuş users, then started developing the “Kartuş Genç” program for young customers.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_customers",
+          "attribute_value": "1.5",
+          "attribute_unit": "million"
+        },
+        {
+          "attribute_name": "kartus_user_count",
+          "attribute_value": "10",
+          "attribute_unit": "million"
+        },
+        {
+          "attribute_name": "new_program",
+          "attribute_value": "Kartuş Genç",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_5",
+      "relationship": "has_claim",
+      "category": "Metric",
+      "is_verifiable": true,
+      "statement": "Company M gains 1 million new customers each year.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_customers_per_year",
+          "attribute_value": "1",
+          "attribute_unit": "million"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "TIME",
+      "relationship": "related_to",
+      "category": "Achievement, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M was ranked 8th in the “World’s Best Companies – Sustainable Growth 2025” survey conducted by TIME and Statista.",
+      "structured_attributes": [
+        {
+          "attribute_name": "rank",
+          "attribute_value": "8",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "survey_name",
+          "attribute_value": "World’s Best Companies – Sustainable Growth 2025",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "conducted_by",
+          "attribute_value": "TIME, Statista",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Statista",
+      "relationship": "related_to",
+      "category": "Achievement, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M was ranked 8th in the “World’s Best Companies – Sustainable Growth 2025” survey conducted by TIME and Statista.",
+      "structured_attributes": [
+        {
+          "attribute_name": "rank",
+          "attribute_value": "8",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "survey_name",
+          "attribute_value": "World’s Best Companies – Sustainable Growth 2025",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "conducted_by",
+          "attribute_value": "TIME, Statista",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_7",
+      "relationship": "has_claim",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company M employs 5,872 employees worldwide.",
+      "structured_attributes": [
+        {
+          "attribute_name": "employee_count",
+          "attribute_value": "5.872",
+          "attribute_unit": "people"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_8",
+      "relationship": "has_claim",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Company M was founded in 1991.",
+      "structured_attributes": [
+        {
+          "attribute_name": "founding_year",
+          "attribute_value": "1991",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_9",
+      "relationship": "has_claim",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company M became the market leader in Turkey.",
+      "structured_attributes": [
+        {
+          "attribute_name": "market_leader_country",
+          "attribute_value": "Turkey",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_10",
+      "relationship": "has_claim",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Company M US and Europe were founded.",
+      "structured_attributes": [
+        {
+          "attribute_name": "region",
+          "attribute_value": "US",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Time Magazine",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Time Magazine recognized Company M as the first Turkish brand to become an international brand in 1996.",
+      "structured_attributes": [
+        {
+          "attribute_name": "recognition_year",
+          "attribute_value": "1996",
+          "attribute_unit": "year"
+        },
+        {
+          "attribute_name": "recognizing_body",
+          "attribute_value": "Time Magazine",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "New York",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Vancouver",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Berlin",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Frankfurt",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Turkish Private Equity Fund II",
+      "relationship": "related_to",
+      "category": "Partnership",
+      "is_verifiable": true,
+      "statement": "Turkish Private Equity Fund II invested in Company M.",
+      "structured_attributes": [
+        {
+          "attribute_name": "investment_target",
+          "attribute_value": "Company M",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M Jeans",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Richard Branson wore Company M jeans during a space shuttle launch.",
+      "structured_attributes": [
+        {
+          "attribute_name": "activity",
+          "attribute_value": "wore Company M jeans during space shuttle launch",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_15",
+      "relationship": "has_claim",
+      "category": "Metric",
+      "is_verifiable": true,
+      "statement": "Company M’s loyalty program reached 1 million members in 2009.",
+      "structured_attributes": [
+        {
+          "attribute_name": "member_count",
+          "attribute_value": "1",
+          "attribute_unit": "million"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2009",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Adriana Lima",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Adriana Lima became the face of Company M in 2009.",
+      "structured_attributes": [
+        {
+          "attribute_name": "role",
+          "attribute_value": "face of Company M",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2009",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Germany",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Sportswear Magazine announced Company M as the best denim bottoms brand in Germany.",
+      "structured_attributes": [
+        {
+          "attribute_name": "award_title",
+          "attribute_value": "best denim bottoms brand",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Germany",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Sportswear Magazine",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Sportswear Magazine announced Company M as the best denim bottoms brand in Germany.",
+      "structured_attributes": [
+        {
+          "attribute_name": "award_title",
+          "attribute_value": "best denim bottoms brand",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Germany",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Denim Kitchen",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M introduced the Denim Kitchen retail concept.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2009",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M Gold collection",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Hussein Chalayan Gold Series was launched as part of the Company M Gold collection.",
+      "structured_attributes": [
+        {
+          "attribute_name": "associated_collection",
+          "attribute_value": "Company M Gold",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Hussein Chalayan Gold Series",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Hussein Chalayan Gold Series was launched as part of the Company M Gold collection.",
+      "structured_attributes": [
+        {
+          "attribute_name": "associated_collection",
+          "attribute_value": "Company M Gold",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_21",
+      "relationship": "has_claim",
+      "category": "Technology",
+      "is_verifiable": true,
+      "statement": "Company M launched its e‑commerce site in 2012.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2012",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_22",
+      "relationship": "has_claim",
+      "category": "Event",
+      "is_verifiable": true,
+      "statement": "Company M celebrated its 25th anniversary in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "anniversary_number",
+          "attribute_value": "25",
+          "attribute_unit": "years"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Elsa Hosk",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Elsa Hosk, Jordan Barrettt, Lucky Blue Smith",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Jordan Barrettt",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Elsa Hosk, Jordan Barrettt, Lucky Blue Smith",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Lucky Blue Smith",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Elsa Hosk, Jordan Barrettt, Lucky Blue Smith",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Adriano Goldschmied",
+      "relationship": "mentions",
+      "category": "Process",
+      "is_verifiable": true,
+      "statement": "Adriano Goldschmied contributed to the launch of the Indigo Move Premium Collection in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collection",
+          "attribute_value": "Indigo Move Premium Collection",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Indigo Move Premium Collection",
+      "relationship": "mentions",
+      "category": "Process",
+      "is_verifiable": true,
+      "statement": "Adriano Goldschmied contributed to the launch of the Indigo Move Premium Collection in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collection",
+          "attribute_value": "Indigo Move Premium Collection",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Richard Branson",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Richard Branson wore Company M jeans during a space shuttle launch.",
+      "structured_attributes": [
+        {
+          "attribute_name": "activity",
+          "attribute_value": "wore Company M jeans during space shuttle launch",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Kartus",
+      "relationship": "related_to",
+      "category": "Metric",
+      "is_verifiable": true,
+      "statement": "Company M's loyalty program Kartus reached 5.7 million members.",
+      "structured_attributes": [
+        {
+          "attribute_name": "member_count",
+          "attribute_value": "5.7",
+          "attribute_unit": "million"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Canada",
+      "relationship": "related_to",
+      "category": "Partnership",
+      "is_verifiable": true,
+      "statement": "Company M acquired US & Canada operations in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "acquisition_target",
+          "attribute_value": "US & Canada operations",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M Anthology",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company M published the book “Company M Anthology” in 2016.",
+      "structured_attributes": [
+        {
+          "attribute_name": "publication_year",
+          "attribute_value": "2016",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Harvard Business School",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company M’s growth strategy became a course subject at Harvard Business School in 2016.",
+      "structured_attributes": [
+        {
+          "attribute_name": "course_subject",
+          "attribute_value": "Company M’s growth strategy",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2016",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Romee Strijd",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Romee Strijd became the global face of Company M in 2016.",
+      "structured_attributes": [
+        {
+          "attribute_name": "role",
+          "attribute_value": "global face of Company M",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2016",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Makers of Today's Istanbul",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company M published “Makers of Today's Istanbul” with photographs by Martin Parr in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "photographer",
+          "attribute_value": "Martin Parr",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Martin Parr",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company M published “Makers of Today's Istanbul” with photographs by Martin Parr in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "photographer",
+          "attribute_value": "Martin Parr",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Borsa Istanbul",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company M began trading on Borsa Istanbul on June 15, 2017, after its IPO.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Borsa Istanbul",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "listing_date",
+          "attribute_value": "June 15",
+          "attribute_unit": "date"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Serenay Sarıkaya",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Serenay X Company M Icon collection",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M launched the Serenay X Company M Icon collection with Serenay Sarıkaya in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Tencel",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M created Super Soft denim products in collaboration with Tencel in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Tencel",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Super Soft denim",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M created Super Soft denim products in collaboration with Tencel in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Tencel",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M Black Pro collection",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M Black Pro collection was created in 2018.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2018",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "All Blue",
+      "relationship": "related_to",
+      "category": "Product_Info, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M added the Regenerative Jeans Collection (made with regenerative cotton) and the MT1012 R3‑IMAGINED for Company M Collection (upcycling approach) to the All Blue collection in 2024.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_sub_collections",
+          "attribute_value": "Regenerative Jeans Collection, MT1012 R3‑IMAGINED for Company M Collection",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "material_regenerative_jeans",
+          "attribute_value": "regenerative cotton",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "design_approach_mt1012",
+          "attribute_value": "upcycling",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2024",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M App",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M.com and the Company M app were made accessible to visually impaired users in partnership with BlindLook.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "BlindLook",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "accessibility_feature",
+          "attribute_value": "accessible to visually impaired users",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Merih Demiral",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Merih Demiral, a star player of the Turkish national football team and Juventus, became the face of Company M’s sporty line in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "role",
+          "attribute_value": "face of sporty line",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Turkish national football team",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Merih Demiral, a star player of the Turkish national football team and Juventus, became the face of Company M’s sporty line in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "role",
+          "attribute_value": "face of sporty line",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Juventus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Merih Demiral, a star player of the Turkish national football team and Juventus, became the face of Company M’s sporty line in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "role",
+          "attribute_value": "face of sporty line",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_39",
+      "relationship": "has_claim",
+      "category": "Certification, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M became the first Turkish apparel brand to disclose its carbon footprint transparently and received a B score from CDP in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "first_in_country",
+          "attribute_value": "DOĞRU",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "score",
+          "attribute_value": "B",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "certifying_body",
+          "attribute_value": "CDP",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "UN Global Compact",
+      "relationship": "related_to",
+      "category": "Sustainability, Partnership",
+      "is_verifiable": true,
+      "statement": "Company M signed as a signatory of the UN Global Compact in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "initiative",
+          "attribute_value": "UN Global Compact",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Zorlu Shopping Mall",
+      "relationship": "related_to",
+      "category": "Sustainability, Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first eco‑store in Zorlu Shopping Mall in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_type",
+          "attribute_value": "eco‑store",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "location",
+          "attribute_value": "Zorlu Shopping Mall",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M Pro Sport Repreve® collection",
+      "relationship": "related_to",
+      "category": "Sustainability, Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M introduced jeans made from recycled plastic bottles in the Company M Pro Sport Repreve® collection in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "material",
+          "attribute_value": "recycled plastic bottles",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2020",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M Transformation",
+      "relationship": "related_to",
+      "category": "Sustainability, Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "The “Company M Transformation” ad campaign was launched in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sustaibanility_concept",
+          "attribute_value": "",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2020",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Les Benjamins",
+      "relationship": "related_to",
+      "category": "Product_Info, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M collaborated with Les Benjamins to create a sustainable collection using organic, recycled and eco‑friendly materials in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Les Benjamins",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "material_types",
+          "attribute_value": "organic, recycled, eco‑friendly",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2020",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "UNGC",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M signed the Women’s Empowerment Principles (WEPs) joint initiative of UNGC and UN Women in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "initiative",
+          "attribute_value": "Women’s Empowerment Principles (WEPs)",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_organizations",
+          "attribute_value": "UNGC, UN Women",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "sustainability_concept",
+          "attribute_value": "",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "UN Women",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M signed the Women’s Empowerment Principles (WEPs) joint initiative of UNGC and UN Women in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "initiative",
+          "attribute_value": "Women’s Empowerment Principles (WEPs)",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_organizations",
+          "attribute_value": "UNGC, UN Women",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "sustainability_concept",
+          "attribute_value": "",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_46",
+      "relationship": "has_claim",
+      "category": "Sustainability, Process",
+      "is_verifiable": true,
+      "statement": "Company M submitted its first reports to the CDP Water Security and Forests Programs in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "programs",
+          "attribute_value": "CDP Water Security, CDP Forests",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "report_year",
+          "attribute_value": "2020",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "CDP Forests Program",
+      "relationship": "related_to",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company M became the first and only Turkish company to report to the CDP Forests Program in Turkey in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "first_in_country",
+          "attribute_value": "DOĞRU",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "program",
+          "attribute_value": "CDP Forests Program",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Together, We Are So Beautiful",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M launched the “Together, We Are So Beautiful” campaign in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_49",
+      "relationship": "has_claim",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M’s logo t‑shirts and sweatshirts became the uniform and symbol of unity in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "symbolic_use",
+          "attribute_value": "uniform and symbol of unity",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Climate Change A List",
+      "relationship": "related_to",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company M was included in the 2022 Climate Change A List announced by CDP.",
+      "structured_attributes": [
+        {
+          "attribute_name": "list_name",
+          "attribute_value": "Climate Change A List",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2022",
+          "attribute_unit": "year"
+        },
+        {
+          "attribute_name": "announcing_body",
+          "attribute_value": "CDP",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Hemp Denim",
+      "relationship": "related_to",
+      "category": "Product_Info, Sustainability",
+      "is_verifiable": true,
+      "statement": "Hemp Denim was made with hemp fibers, recycled cotton and bio‑based nutshell buttons, using minimum water.",
+      "structured_attributes": [
+        {
+          "attribute_name": "fabric_type",
+          "attribute_value": "hemp fibers",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "secondary_material",
+          "attribute_value": "recycled cotton",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "button_material",
+          "attribute_value": "bio‑based nutshell",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "water_usage",
+          "attribute_value": "minimum",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Esra Gülmen",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M collaborated with Esra Gülmen to create the Esra Gülmen X Company M collection.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Esra Gülmen",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Esra Gülmen X Company M collection",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M collaborated with Esra Gülmen to create the Esra Gülmen X Company M collection.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Esra Gülmen",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Freedom of Space",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Freedom of Space to create an exclusive collection using Better Cotton‑certified fabrics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Freedom of Space",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "certified_fabric",
+          "attribute_value": "Better Cotton",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Better Cotton",
+      "relationship": "related_to",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company M became a member of the Better Cotton program.",
+      "structured_attributes": [
+        {
+          "attribute_name": "program",
+          "attribute_value": "Better Cotton",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "BlindLook",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M.com and the Company M app were made accessible to visually impaired users in partnership with BlindLook.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "BlindLook",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "accessibility_feature",
+          "attribute_value": "accessible to visually impaired users",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_56",
+      "relationship": "has_claim",
+      "category": "Sustainability, Document",
+      "is_verifiable": true,
+      "statement": "Company M published its first sustainability report in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "report_type",
+          "attribute_value": "sustainability report",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "publication_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "BIST Sustainability 25 Index",
+      "relationship": "related_to",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company M was included in the BIST Sustainability 25 Index.",
+      "structured_attributes": [
+        {
+          "attribute_name": "index_name",
+          "attribute_value": "BIST Sustainability 25 Index",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Company M 100 collection",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M designed the Company M 100 collection to celebrate the 100th anniversary of the Republic of Turkey in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "occasion",
+          "attribute_value": "100th anniversary of the Republic of Turkey",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "design_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Republic of Turkey",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M designed the Company M 100 collection to celebrate the 100th anniversary of the Republic of Turkey in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "occasion",
+          "attribute_value": "100th anniversary of the Republic of Turkey",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "design_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Kıvanç Tatlıtuğ",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Jean. A legend. An icon.",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M launched the ‘Jean. A legend. An icon.’ advertising campaign featuring Kıvanç Tatlıtuğ and Serenay Sarıkaya in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Kıvanç Tatlıtuğ, Serenay Sarıkaya",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Future Bright",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Future Bright research selected Company M as Turkey's most trusted brand.",
+      "structured_attributes": [
+        {
+          "attribute_name": "ranking",
+          "attribute_value": "most trusted brand",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "researcher",
+          "attribute_value": "Future Bright",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "STMT_61",
+      "relationship": "has_claim",
+      "category": "Certification, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M was the first and only Turkish apparel brand to make CDP’s Global “A” List with a double A score for Climate Change and Water Security reporting.",
+      "structured_attributes": [
+        {
+          "attribute_name": "list_name",
+          "attribute_value": "CDP’s Global “A” List",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "score",
+          "attribute_value": "double A",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "reporting_areas",
+          "attribute_value": "Climate Change, Water Security",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Science Based Targets initiative (SBTi)",
+      "relationship": "related_to",
+      "category": "Sustainability, Certification",
+      "is_verifiable": true,
+      "statement": "Company M’s greenhouse gas reduction targets were approved by the Science Based Targets initiative (SBTi).",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_type",
+          "attribute_value": "greenhouse gas reduction",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "approving_body",
+          "attribute_value": "Science Based Targets initiative (SBTi)",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Sustainable All Blue collection",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Natural Dye",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Recycle Blue",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "The Rivet Awards",
+      "relationship": "related_to",
+      "category": "Award, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M was awarded the “Most Sustainable Collection” for the fifth time by The Rivet Awards.",
+      "structured_attributes": [
+        {
+          "attribute_name": "award_name",
+          "attribute_value": "The Rivet Awards",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "award_category",
+          "attribute_value": "Most Sustainable Collection",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "award_number",
+          "attribute_value": "5",
+          "attribute_unit": "times"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "SEMT",
+      "relationship": "related_to",
+      "category": "Partnership",
+      "is_verifiable": true,
+      "statement": "Company M collaborated with SEMT and Marche to reach new customer segments.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partners",
+          "attribute_value": "SEMT, Marche",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "objective",
+          "attribute_value": "reach new customer segments",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Marche",
+      "relationship": "related_to",
+      "category": "Partnership",
+      "is_verifiable": true,
+      "statement": "Company M collaborated with SEMT and Marche to reach new customer segments.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partners",
+          "attribute_value": "SEMT, Marche",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "objective",
+          "attribute_value": "reach new customer segments",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Wunder X Company M",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M launched the Wunder X Company M and Marché X Company M collections in 2024.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaboration_partner",
+          "attribute_value": "Marché",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2024",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Marché X Company M",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M launched the Wunder X Company M and Marché X Company M collections in 2024.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaboration_partner",
+          "attribute_value": "Marché",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2024",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Çok Olmak Lazım Bazen",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Biraz Jean mi Konuşsak?",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Socrates",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Socrates to produce a short documentary about Ebrar Karakurt, which was featured during the Paris Olympics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Socrates",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "subject_person",
+          "attribute_value": "Ebrar Karakurt",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "event",
+          "attribute_value": "Paris Olympics",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Ebrar Karakurt",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Socrates to produce a short documentary about Ebrar Karakurt, which was featured during the Paris Olympics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Socrates",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "subject_person",
+          "attribute_value": "Ebrar Karakurt",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "event",
+          "attribute_value": "Paris Olympics",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Paris Olympics",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Socrates to produce a short documentary about Ebrar Karakurt, which was featured during the Paris Olympics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Socrates",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "subject_person",
+          "attribute_value": "Ebrar Karakurt",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "event",
+          "attribute_value": "Paris Olympics",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Circularity in Fashion",
+      "relationship": "related_to",
+      "category": "Sustainability, Process",
+      "is_verifiable": true,
+      "statement": "Company M conducted its first double materiality assessment and launched the “Circularity in Fashion” project with Nivogo.",
+      "structured_attributes": [
+        {
+          "attribute_name": "assessment_type",
+          "attribute_value": "double materiality",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "project_name",
+          "attribute_value": "Circularity in Fashion",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Nivogo",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Nivogo",
+      "relationship": "related_to",
+      "category": "Sustainability, Process",
+      "is_verifiable": true,
+      "statement": "Company M conducted its first double materiality assessment and launched the “Circularity in Fashion” project with Nivogo.",
+      "structured_attributes": [
+        {
+          "attribute_name": "assessment_type",
+          "attribute_value": "double materiality",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "project_name",
+          "attribute_value": "Circularity in Fashion",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Nivogo",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Kartuş Genç",
+      "relationship": "related_to",
+      "category": "Metric",
+      "is_verifiable": true,
+      "statement": "Company M gained 1.5 million new customers and reached 10 million Kartuş users, then started developing the “Kartuş Genç” program for young customers.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_customers",
+          "attribute_value": "1.5",
+          "attribute_unit": "million"
+        },
+        {
+          "attribute_name": "kartus_user_count",
+          "attribute_value": "10",
+          "attribute_unit": "million"
+        },
+        {
+          "attribute_name": "new_program",
+          "attribute_value": "Kartuş Genç",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Gulf countries",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M.com launched sites in Gulf countries and European markets as part of its globalization journey.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_regions",
+          "attribute_value": "Gulf countries, European markets",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "European markets",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M.com launched sites in Gulf countries and European markets as part of its globalization journey.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_regions",
+          "attribute_value": "Gulf countries, European markets",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "SosyalBen Foundation",
+      "relationship": "related_to",
+      "category": "Sustainability, Project",
+      "is_verifiable": true,
+      "statement": "Company M and the SosyalBen Foundation expanded the Hope Truck project into a long‑term initiative with Skill Development Centers (BEGEM).",
+      "structured_attributes": [
+        {
+          "attribute_name": "initiative",
+          "attribute_value": "Skill Development Centers (BEGEM)",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "objective",
+          "attribute_value": "support psychosocial well‑being of children affected by the earthquake",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Skill Development Centers (BEGEM)",
+      "relationship": "related_to",
+      "category": "Sustainability, Project",
+      "is_verifiable": true,
+      "statement": "Company M and the SosyalBen Foundation expanded the Hope Truck project into a long‑term initiative with Skill Development Centers (BEGEM).",
+      "structured_attributes": [
+        {
+          "attribute_name": "initiative",
+          "attribute_value": "Skill Development Centers (BEGEM)",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "objective",
+          "attribute_value": "support psychosocial well‑being of children affected by the earthquake",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M",
+      "target": "Kurtaran Ev",
+      "relationship": "related_to",
+      "category": "Sustainability, Partnership",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Kurtaran Ev to support rescue, treatment, sheltering, nourishment and adoption of stray animals.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kurtaran Ev",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "supported_activities",
+          "attribute_value": "rescue, treatment, sheltering, nourishment, adoption of stray animals",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Istanbul",
+      "target": "Makers of Today's Istanbul",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company M published “Makers of Today's Istanbul” with photographs by Martin Parr in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "photographer",
+          "attribute_value": "Martin Parr",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Istanbul",
+      "target": "Martin Parr",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company M published “Makers of Today's Istanbul” with photographs by Martin Parr in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "photographer",
+          "attribute_value": "Martin Parr",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Istanbul",
+      "target": "Borsa Istanbul",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company M began trading on Borsa Istanbul on June 15, 2017, after its IPO.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Borsa Istanbul",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "listing_date",
+          "attribute_value": "June 15",
+          "attribute_unit": "date"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Sportswear Magazine",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Sportswear Magazine announced Company M as the best denim bottoms brand in Germany.",
+      "structured_attributes": [
+        {
+          "attribute_name": "award_title",
+          "attribute_value": "best denim bottoms brand",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Germany",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kartuş",
+      "target": "Kartuş Genç",
+      "relationship": "related_to",
+      "category": "Metric",
+      "is_verifiable": true,
+      "statement": "Company M gained 1.5 million new customers and reached 10 million Kartuş users, then started developing the “Kartuş Genç” program for young customers.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_customers",
+          "attribute_value": "1.5",
+          "attribute_unit": "million"
+        },
+        {
+          "attribute_name": "kartus_user_count",
+          "attribute_value": "10",
+          "attribute_unit": "million"
+        },
+        {
+          "attribute_name": "new_program",
+          "attribute_value": "Kartuş Genç",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "TIME",
+      "target": "Statista",
+      "relationship": "related_to",
+      "category": "Achievement, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M was ranked 8th in the “World’s Best Companies – Sustainable Growth 2025” survey conducted by TIME and Statista.",
+      "structured_attributes": [
+        {
+          "attribute_name": "rank",
+          "attribute_value": "8",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "survey_name",
+          "attribute_value": "World’s Best Companies – Sustainable Growth 2025",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "conducted_by",
+          "attribute_value": "TIME, Statista",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "TIME",
+      "target": "Time Magazine",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Time Magazine recognized Company M as the first Turkish brand to become an international brand in 1996.",
+      "structured_attributes": [
+        {
+          "attribute_name": "recognition_year",
+          "attribute_value": "1996",
+          "attribute_unit": "year"
+        },
+        {
+          "attribute_name": "recognizing_body",
+          "attribute_value": "Time Magazine",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "TIME",
+      "target": "The Rivet Awards",
+      "relationship": "related_to",
+      "category": "Award, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M was awarded the “Most Sustainable Collection” for the fifth time by The Rivet Awards.",
+      "structured_attributes": [
+        {
+          "attribute_name": "award_name",
+          "attribute_value": "The Rivet Awards",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "award_category",
+          "attribute_value": "Most Sustainable Collection",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "award_number",
+          "attribute_value": "5",
+          "attribute_unit": "times"
+        }
+      ]
+    },
+    {
+      "source": "All Blue",
+      "target": "Sustainable All Blue collection",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "All Blue",
+      "target": "Natural Dye",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "All Blue",
+      "target": "Recycle Blue",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Adriano Goldschmied",
+      "target": "Indigo Move Premium Collection",
+      "relationship": "related_to",
+      "category": "Process",
+      "is_verifiable": true,
+      "statement": "Adriano Goldschmied contributed to the launch of the Indigo Move Premium Collection in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collection",
+          "attribute_value": "Indigo Move Premium Collection",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "New York",
+      "target": "Vancouver",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "New York",
+      "target": "Berlin",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "New York",
+      "target": "Frankfurt",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Vancouver",
+      "target": "Berlin",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Vancouver",
+      "target": "Frankfurt",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "Frankfurt",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M opened its first flagship stores in New York, Vancouver, Berlin and Frankfurt.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_cities",
+          "attribute_value": "New York, Vancouver, Berlin, Frankfurt",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M Jeans",
+      "target": "Richard Branson",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Richard Branson wore Company M jeans during a space shuttle launch.",
+      "structured_attributes": [
+        {
+          "attribute_name": "activity",
+          "attribute_value": "wore Company M jeans during space shuttle launch",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M Gold collection",
+      "target": "Hussein Chalayan Gold Series",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Hussein Chalayan Gold Series was launched as part of the Company M Gold collection.",
+      "structured_attributes": [
+        {
+          "attribute_name": "associated_collection",
+          "attribute_value": "Company M Gold",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Elsa Hosk",
+      "target": "Jordan Barrettt",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Elsa Hosk, Jordan Barrettt, Lucky Blue Smith",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Elsa Hosk",
+      "target": "Lucky Blue Smith",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Elsa Hosk, Jordan Barrettt, Lucky Blue Smith",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Jordan Barrettt",
+      "target": "Lucky Blue Smith",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Elsa Hosk, Jordan Barrettt and Lucky Blue Smith became the faces of Company M in 2013.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Elsa Hosk, Jordan Barrettt, Lucky Blue Smith",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2013",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Kıvanç Tatlıtuğ",
+      "target": "Serenay Sarıkaya",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kıvanç Tatlıtuğ",
+      "target": "Jean. A legend. An icon.",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M launched the ‘Jean. A legend. An icon.’ advertising campaign featuring Kıvanç Tatlıtuğ and Serenay Sarıkaya in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Kıvanç Tatlıtuğ, Serenay Sarıkaya",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Kıvanç Tatlıtuğ",
+      "target": "Çok Olmak Lazım Bazen",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kıvanç Tatlıtuğ",
+      "target": "Biraz Jean mi Konuşsak?",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Makers of Today's Istanbul",
+      "target": "Martin Parr",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company M published “Makers of Today's Istanbul” with photographs by Martin Parr in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "photographer",
+          "attribute_value": "Martin Parr",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Serenay Sarıkaya",
+      "target": "Serenay X Company M Icon collection",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M launched the Serenay X Company M Icon collection with Serenay Sarıkaya in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Serenay Sarıkaya",
+      "target": "Jean. A legend. An icon.",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M launched the ‘Jean. A legend. An icon.’ advertising campaign featuring Kıvanç Tatlıtuğ and Serenay Sarıkaya in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "faces",
+          "attribute_value": "Kıvanç Tatlıtuğ, Serenay Sarıkaya",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Serenay Sarıkaya",
+      "target": "Çok Olmak Lazım Bazen",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Serenay Sarıkaya",
+      "target": "Biraz Jean mi Konuşsak?",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Tencel",
+      "target": "Super Soft denim",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M created Super Soft denim products in collaboration with Tencel in 2017.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Tencel",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2017",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Company M App",
+      "target": "BlindLook",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M.com and the Company M app were made accessible to visually impaired users in partnership with BlindLook.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "BlindLook",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "accessibility_feature",
+          "attribute_value": "accessible to visually impaired users",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Merih Demiral",
+      "target": "Turkish national football team",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Merih Demiral, a star player of the Turkish national football team and Juventus, became the face of Company M’s sporty line in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "role",
+          "attribute_value": "face of sporty line",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Merih Demiral",
+      "target": "Juventus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Merih Demiral, a star player of the Turkish national football team and Juventus, became the face of Company M’s sporty line in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "role",
+          "attribute_value": "face of sporty line",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Turkish national football team",
+      "target": "Juventus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Merih Demiral, a star player of the Turkish national football team and Juventus, became the face of Company M’s sporty line in 2019.",
+      "structured_attributes": [
+        {
+          "attribute_name": "role",
+          "attribute_value": "face of sporty line",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "UNGC",
+      "target": "UN Women",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M signed the Women’s Empowerment Principles (WEPs) joint initiative of UNGC and UN Women in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "initiative",
+          "attribute_value": "Women’s Empowerment Principles (WEPs)",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_organizations",
+          "attribute_value": "UNGC, UN Women",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "sustainability_concept",
+          "attribute_value": "",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Esra Gülmen",
+      "target": "Esra Gülmen X Company M collection",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M collaborated with Esra Gülmen to create the Esra Gülmen X Company M collection.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaborator",
+          "attribute_value": "Esra Gülmen",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Freedom of Space",
+      "target": "Better Cotton",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Freedom of Space to create an exclusive collection using Better Cotton‑certified fabrics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Freedom of Space",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "certified_fabric",
+          "attribute_value": "Better Cotton",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company M 100 collection",
+      "target": "Republic of Turkey",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M designed the Company M 100 collection to celebrate the 100th anniversary of the Republic of Turkey in 2021.",
+      "structured_attributes": [
+        {
+          "attribute_name": "occasion",
+          "attribute_value": "100th anniversary of the Republic of Turkey",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "design_year",
+          "attribute_value": "2021",
+          "attribute_unit": "year"
+        }
+      ]
+    },
+    {
+      "source": "Sustainable All Blue collection",
+      "target": "Natural Dye",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Sustainable All Blue collection",
+      "target": "Recycle Blue",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Natural Dye",
+      "target": "Recycle Blue",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "Within the Sustainable All Blue collection, Company M created the Archive, Natural Dye and Recycle Blue collections.",
+      "structured_attributes": [
+        {
+          "attribute_name": "sub_collections",
+          "attribute_value": "Company M Archive, Natural Dye, Recycle Blue",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "SEMT",
+      "target": "Marche",
+      "relationship": "related_to",
+      "category": "Partnership",
+      "is_verifiable": true,
+      "statement": "Company M collaborated with SEMT and Marche to reach new customer segments.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partners",
+          "attribute_value": "SEMT, Marche",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "objective",
+          "attribute_value": "reach new customer segments",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "SosyalBen Foundation",
+      "target": "Skill Development Centers (BEGEM)",
+      "relationship": "related_to",
+      "category": "Sustainability, Project",
+      "is_verifiable": true,
+      "statement": "Company M and the SosyalBen Foundation expanded the Hope Truck project into a long‑term initiative with Skill Development Centers (BEGEM).",
+      "structured_attributes": [
+        {
+          "attribute_name": "initiative",
+          "attribute_value": "Skill Development Centers (BEGEM)",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "objective",
+          "attribute_value": "support psychosocial well‑being of children affected by the earthquake",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Çok Olmak Lazım Bazen",
+      "target": "Biraz Jean mi Konuşsak?",
+      "relationship": "related_to",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company M ran the ad campaigns “Çok Olmak Lazım Bazen” with Kıvanç Tatlıtuğ and “Biraz Jean mi Konuşsak?” with Serenay Sarıkaya.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Kıvanç Tatlıtuğ",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "campaign_2",
+          "attribute_value": "Biraz Jean mi Konuşsak?",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner_2",
+          "attribute_value": "Serenay Sarıkaya",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Socrates",
+      "target": "Ebrar Karakurt",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Socrates to produce a short documentary about Ebrar Karakurt, which was featured during the Paris Olympics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Socrates",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "subject_person",
+          "attribute_value": "Ebrar Karakurt",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "event",
+          "attribute_value": "Paris Olympics",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Socrates",
+      "target": "Paris Olympics",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Socrates to produce a short documentary about Ebrar Karakurt, which was featured during the Paris Olympics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Socrates",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "subject_person",
+          "attribute_value": "Ebrar Karakurt",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "event",
+          "attribute_value": "Paris Olympics",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Ebrar Karakurt",
+      "target": "Paris Olympics",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company M partnered with Socrates to produce a short documentary about Ebrar Karakurt, which was featured during the Paris Olympics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Socrates",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "subject_person",
+          "attribute_value": "Ebrar Karakurt",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "event",
+          "attribute_value": "Paris Olympics",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Circularity in Fashion",
+      "target": "Nivogo",
+      "relationship": "related_to",
+      "category": "Sustainability, Process",
+      "is_verifiable": true,
+      "statement": "Company M conducted its first double materiality assessment and launched the “Circularity in Fashion” project with Nivogo.",
+      "structured_attributes": [
+        {
+          "attribute_name": "assessment_type",
+          "attribute_value": "double materiality",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "project_name",
+          "attribute_value": "Circularity in Fashion",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Nivogo",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Gulf countries",
+      "target": "European markets",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company M.com launched sites in Gulf countries and European markets as part of its globalization journey.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_regions",
+          "attribute_value": "Gulf countries, European markets",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Wunder X Company M",
+      "target": "Marché X Company M",
+      "relationship": "related_to",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "statement": "Company M launched the Wunder X Company M and Marché X Company M collections in 2024.",
+      "structured_attributes": [
+        {
+          "attribute_name": "collaboration_partner",
+          "attribute_value": "Marché",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2024",
+          "attribute_unit": "year"
+        }
+      ]
+    }
+  ]
+}

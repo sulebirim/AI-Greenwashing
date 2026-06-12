@@ -1,0 +1,142 @@
+{
+  "Company F En": {
+    "main_company": "Company F",
+    "total_nodes": 15,
+    "total_edges": 19,
+    "node_types": {
+      "Person, Company": 1,
+      "Location": 1,
+      "Target_Group": 1,
+      "Product/Product_Line": 3,
+      "Concept/Initiative": 4,
+      "FactualStatement": 5
+    },
+    "edge_categories": {
+      "Vague_Claim": 4,
+      "History, Vague_Claim": 1,
+      "History": 3,
+      "Process": 3,
+      "Metric": 2,
+      "Product_Info": 6
+    },
+    "verifiable_edges": 15,
+    "non_verifiable_edges": 4
+  },
+  "Company G En": {
+    "main_company": "Company G",
+    "total_nodes": 20,
+    "total_edges": 55,
+    "node_types": {
+      "Company": 1,
+      "Location": 11,
+      "Concept/Initiative": 1,
+      "FactualStatement": 7
+    },
+    "edge_categories": {
+      "Organizational, Geographic": 1,
+      "Vague_Claim": 5,
+      "Commitment/Goal": 1,
+      "Achievement": 45,
+      "History, Geographic": 1,
+      "Process, Geographic": 1,
+      "Process": 1
+    },
+    "verifiable_edges": 2,
+    "non_verifiable_edges": 53
+  },
+  "Company H": {
+    "main_company": "Company H Group",
+    "total_nodes": 76,
+    "total_edges": 115,
+    "node_types": {
+      "Company": 4,
+      "Person": 6,
+      "Brand/Sub-brand": 14,
+      "Location": 17,
+      "Supplier": 1,
+      "Organization": 5,
+      "Event": 1,
+      "Concept/Initiative": 7,
+      "Product/Product_Line": 1,
+      "Partnership": 1,
+      "Certification": 2,
+      "FactualStatement": 17
+    },
+    "edge_categories": {
+      "Partnership": 2,
+      "Vague_Claim": 1,
+      "History": 17,
+      "Organizational": 14,
+      "Geographic": 23,
+      "Certification": 5,
+      "Achievement": 16,
+      "Geographic, History": 3,
+      "Achievement, History": 10,
+      "History, Geographic": 1,
+      "Commitment/Goal": 2,
+      "Commitment/Goal, Sustainability": 2,
+      "Sustainability, History": 1,
+      "Sustainability, Commitment/Goal": 1,
+      "Partnership, Sustainability": 3,
+      "Sustainability": 4,
+      "Process": 5,
+      "Concept/Initiative": 1,
+      "Policy": 4
+    },
+    "verifiable_edges": 114,
+    "non_verifiable_edges": 1
+  },
+  "Company M En": {
+    "main_company": "Company M",
+    "total_nodes": 116,
+    "total_edges": 154,
+    "node_types": {
+      "Company": 1,
+      "Location": 13,
+      "Other": 3,
+      "Concept/Initiative": 11,
+      "Organization": 24,
+      "Person": 14,
+      "Product/Product_Line": 19,
+      "Brand/Sub-brand": 2,
+      "Technology": 2,
+      "Supplier": 1,
+      "Program": 3,
+      "Certification": 3,
+      "Award": 1,
+      "Project": 3,
+      "Event": 1,
+      "FactualStatement": 15
+    },
+    "edge_categories": {
+      "Organizational": 4,
+      "Geographic": 14,
+      "Metric": 8,
+      "Achievement, Sustainability": 3,
+      "History": 2,
+      "Achievement": 31,
+      "Partnership": 5,
+      "Concept/Initiative": 15,
+      "Product_Info": 19,
+      "Technology": 1,
+      "Event": 1,
+      "Process": 3,
+      "Product_Info, Sustainability": 3,
+      "Partnership, Sustainability": 14,
+      "Certification, Sustainability": 2,
+      "Sustainability, Partnership": 2,
+      "Sustainability, Geographic": 1,
+      "Sustainability, Product_Info": 1,
+      "Sustainability, Concept/Initiative": 1,
+      "Sustainability, Process": 4,
+      "Certification": 4,
+      "Sustainability, Document": 1,
+      "Sustainability, Certification": 1,
+      "Sustainability": 9,
+      "Award, Sustainability": 2,
+      "Sustainability, Project": 3
+    },
+    "verifiable_edges": 154,
+    "non_verifiable_edges": 0
+  }
+}

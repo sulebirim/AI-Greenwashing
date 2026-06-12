@@ -1,0 +1,3380 @@
+{
+  "company_name": "Company H",
+  "main_company": "Company H Group",
+  "total_nodes": 76,
+  "total_edges": 115,
+  "nodes": [
+    {
+      "id": "Company H Group",
+      "type": "Company",
+      "source_sentence": "Our way covers all brands within Company H Group: Company H, COS, Weekday, Cheap Monday,  Monki, Company H HOME, & Other Stories, ARKET, Singular Society and our B2B initiative Creator Studio.",
+      "attributes": {
+        "new_markets": {
+          "value": "India, South Africa",
+          "unit": null,
+          "verifiable": true,
+          "source": "India and South Africa became new markets for Company H in 2015."
+        },
+        "first_online_market": {
+          "value": "Sweden",
+          "unit": null,
+          "verifiable": true,
+          "source": "Sweden becomes Company H’s first online market."
+        },
+        "year": {
+          "value": "2023",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 2023, Company H Group and Remondis created Looper, a joint venture to collect, sort and sell used and unwanted garments and textiles."
+        },
+        "store_location": {
+          "value": "Chile",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H opened its first store in the southern hemisphere in Chile."
+        },
+        "store_type": {
+          "value": "first US store",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 2000, Company H successfully opens its first US store on New York’s Fifth Avenue."
+        },
+        "partner_brands": {
+          "value": "Versace, Roberto Cavalli, Balmain",
+          "unit": null,
+          "verifiable": true,
+          "source": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience."
+        },
+        "countries": {
+          "value": "China, Japan",
+          "unit": null,
+          "verifiable": true,
+          "source": "The first Company H stores in China and Japan open between 2006 and 2010."
+        },
+        "period": {
+          "value": "2006–2010",
+          "unit": null,
+          "verifiable": true,
+          "source": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010."
+        },
+        "new_brands": {
+          "value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "unit": null,
+          "verifiable": true,
+          "source": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010."
+        },
+        "year_listed": {
+          "value": "1974",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H was listed on the Stockholm Stock Exchange in 1974."
+        },
+        "exchange": {
+          "value": "Stockholm Stock Exchange",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H was listed on the Stockholm Stock Exchange in 1974."
+        },
+        "city": {
+          "value": "London",
+          "unit": null,
+          "verifiable": true,
+          "source": "The first Company H store outside Scandinavia opened in London, UK in 1976."
+        },
+        "country": {
+          "value": "UK",
+          "unit": null,
+          "verifiable": true,
+          "source": "The first Company H store outside Scandinavia opened in London, UK in 1976."
+        },
+        "target_year": {
+          "value": "2030",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group set a climate target to halve absolute greenhouse gas emissions by 2030."
+        },
+        "goal": {
+          "value": "net‑zero value chain",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H set a net‑zero value chain target for 2040."
+        },
+        "material_goal": {
+          "value": "only recycled or other sustainably sourced materials",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H aims to use only recycled or other sustainably sourced materials by 2030."
+        },
+        "ownership_share": {
+          "value": "majority",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group is a majority owner in second‑hand platform Sellpy."
+        },
+        "platform": {
+          "value": "Sellpy",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group is a majority owner in second‑hand platform Sellpy."
+        },
+        "textile_reused_recycled": {
+          "value": "29,005",
+          "unit": "tonnes",
+          "verifiable": true,
+          "source": "In 2019, customers handed in 29,005 tonnes of old textiles to Company H stores globally for reuse and recycling."
+        },
+        "target_tonnage": {
+          "value": "25",
+          "unit": "tonnes",
+          "verifiable": true,
+          "source": "The target was to collect 25,000 tonnes of old textiles per year by 2020."
+        },
+        "market_count": {
+          "value": "50",
+          "unit": "markets",
+          "verifiable": true,
+          "source": "Company H online is present in more than 50 markets."
+        },
+        "presence": {
+          "value": "online",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H online is present in more than 50 markets."
+        },
+        "reduction_goal": {
+          "value": "halve absolute greenhouse gas emissions",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group set a climate target to halve absolute greenhouse gas emissions by 2030."
+        },
+        "partner": {
+          "value": "Remondis",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 2023, Company H Group and Remondis created Looper, a joint venture to collect, sort and sell used and unwanted garments and textiles."
+        },
+        "joint_venture_name": {
+          "value": "Looper",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 2023, Company H Group and Remondis created Looper, a joint venture to collect, sort and sell used and unwanted garments and textiles."
+        },
+        "purpose": {
+          "value": "optimise business decisions",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group works with artificial intelligence, analytics and data across its operations to optimise business decisions."
+        },
+        "region": {
+          "value": "southern hemisphere",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H opened its first store in the southern hemisphere in Chile."
+        },
+        "technology": {
+          "value": "artificial intelligence, analytics, data",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group works with artificial intelligence, analytics and data across its operations to optimise business decisions."
+        },
+        "factory_ownership": {
+          "value": "none",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group does not own any factories."
+        },
+        "primary_supplier_region": {
+          "value": "Asia",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group buys products from suppliers primarily in Asia, also from Europe and Africa."
+        },
+        "secondary_supplier_regions": {
+          "value": "Europe, Africa",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group buys products from suppliers primarily in Asia, also from Europe and Africa."
+        },
+        "bribery_tolerance": {
+          "value": "zero",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group has zero tolerance for all forms of bribery and corruption and a strict no‑gift policy."
+        },
+        "gift_policy": {
+          "value": "strict no‑gift",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group has zero tolerance for all forms of bribery and corruption and a strict no‑gift policy."
+        },
+        "stock_exchange": {
+          "value": "Nasdaq Stockholm",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group is publicly listed on the Nasdaq Stockholm stock exchange."
+        },
+        "guideline": {
+          "value": "OECD Transfer Pricing guidelines",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group’s internal transaction model complies with the OECD Transfer Pricing guidelines."
+        },
+        "regulation": {
+          "value": "EU’s Market Abuse Regulation",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group complies with the EU’s Market Abuse Regulation."
+        },
+        "tax_compliance": {
+          "value": "yes",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group is tax compliant and pays its taxes at the appropriate times."
+        },
+        "political_contributions": {
+          "value": "none",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group does not provide financial contributions to individual politicians or political parties."
+        },
+        "fair_competition_commitment": {
+          "value": "dedicated",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Group is dedicated to promoting fair competition."
+        }
+      }
+    },
+    {
+      "id": "Sellpy",
+      "type": "Company",
+      "source_sentence": "* Sellpy, an e-commerce platform for second-hand items, is majority owned by Company H Group but not part of its organisation.",
+      "attributes": {
+        "ownership": {
+          "value": "majority",
+          "unit": null,
+          "verifiable": true,
+          "source": "Sellpy is majority owned by Company H Group but not part of its organisation."
+        },
+        "parent_company": {
+          "value": "Company H Group",
+          "unit": null,
+          "verifiable": true,
+          "source": "Sellpy is majority owned by Company H Group but not part of its organisation."
+        },
+        "organizational_status": {
+          "value": "not part of organisation",
+          "unit": null,
+          "verifiable": true,
+          "source": "Sellpy is majority owned by Company H Group but not part of its organisation."
+        }
+      }
+    },
+    {
+      "id": "Erling Persson",
+      "type": "Person",
+      "source_sentence": "Our founder had a vision. Erling Persson wanted to make great fashion available and affordable to everyone and do this in the right way.",
+      "attributes": {
+        "year": {
+          "value": "1947",
+          "unit": null,
+          "verifiable": true,
+          "source": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes."
+        },
+        "acquired_store": {
+          "value": "Mauritz Widforss",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 1968, Erling buys the hunting store Mauritz Widforss in Stockholm."
+        },
+        "city": {
+          "value": "Västerås",
+          "unit": null,
+          "verifiable": true,
+          "source": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes."
+        },
+        "country": {
+          "value": "Sweden",
+          "unit": null,
+          "verifiable": true,
+          "source": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes."
+        },
+        "store_name": {
+          "value": "Hennes",
+          "unit": null,
+          "verifiable": true,
+          "source": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes."
+        },
+        "frequency": {
+          "value": "annually",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Erling Persson Award is given annually to recognise colleagues worldwide who put values into action."
+        },
+        "purpose": {
+          "value": "recognise colleagues who put values into action",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Erling Persson Award is given annually to recognise colleagues worldwide who put values into action."
+        }
+      }
+    },
+    {
+      "id": "Hennes",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "In 1964, Hennes expands abroad and opens in Norway.",
+      "attributes": {
+        "year": {
+          "value": "1964",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 1964, Hennes expands abroad and opens in Norway."
+        },
+        "new_market": {
+          "value": "Norway",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 1964, Hennes expands abroad and opens in Norway."
+        }
+      }
+    },
+    {
+      "id": "Norway",
+      "type": "Location",
+      "source_sentence": "In 1964, Hennes expands abroad and opens in Norway.",
+      "attributes": {}
+    },
+    {
+      "id": "Mauritz Widforss",
+      "type": "Supplier",
+      "source_sentence": "In 1968, Erling buys the hunting store Mauritz Widforss in Stockholm.",
+      "attributes": {}
+    },
+    {
+      "id": "Stockholm",
+      "type": "Location",
+      "source_sentence": "In 1968, Erling buys the hunting store Mauritz Widforss in Stockholm.",
+      "attributes": {}
+    },
+    {
+      "id": "Hennes & Mauritz",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "This is the start of selling men’s and children’s clothing and the name is changed to Hennes & Mauritz.",
+      "attributes": {}
+    },
+    {
+      "id": "Company H",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Company H opens in new markets including Germany, the Netherlands, France and Spain, and Sweden becomes Company H’s first online market.",
+      "attributes": {
+        "year_started": {
+          "value": "2007",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Foundation started in 2007 as a non‑profit global foundation."
+        },
+        "type": {
+          "value": "non‑profit global foundation",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Foundation started in 2007 as a non‑profit global foundation."
+        },
+        "funding_start_year": {
+          "value": "2013",
+          "unit": null,
+          "verifiable": true,
+          "source": "Since 2013, Company H Foundation has been funded by the Stefan Persson family."
+        },
+        "funding_source": {
+          "value": "Stefan Persson family",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Foundation is privately funded by the Stefan Persson family, founders and main owners of Company H Group."
+        },
+        "year": {
+          "value": "2015",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Foundation initiated the Global Change Award in 2015."
+        },
+        "award_name": {
+          "value": "Global Change Award",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Foundation initiated the Global Change Award in 2015."
+        },
+        "launch_year": {
+          "value": "2011",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Company H Incentive Program (HIP) was introduced in 2011 for all Company H Group employees."
+        },
+        "category": {
+          "value": "activewear",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Move, a new activewear brand, was launched worldwide in 2020."
+        },
+        "geographic_scope": {
+          "value": "worldwide",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Move, a new activewear brand, was launched worldwide in 2020."
+        },
+        "eligible_group": {
+          "value": "all Company H Group employees",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Company H Incentive Program (HIP) was introduced in 2011 for all Company H Group employees."
+        },
+        "initial_funding_source": {
+          "value": "Stefan Persson family",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Company H Incentive Program (HIP) started with a donation by the Stefan Persson family."
+        },
+        "target": {
+          "value": "UN Sustainable Development Goals 2030",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Company H Foundation aims to accelerate the UN Sustainable Development Goals 2030."
+        },
+        "target_year": {
+          "value": "2030",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Company H Foundation aims to accelerate the UN Sustainable Development Goals 2030."
+        },
+        "relationship_to_Company H_Group": {
+          "value": "founders and main owners",
+          "unit": null,
+          "verifiable": true,
+          "source": "Company H Foundation is privately funded by the Stefan Persson family, founders and main owners of Company H Group."
+        }
+      }
+    },
+    {
+      "id": "Germany",
+      "type": "Location",
+      "source_sentence": "Company H opens in new markets including Germany, the Netherlands, France and Spain, and Sweden becomes Company H’s first online market.",
+      "attributes": {}
+    },
+    {
+      "id": "Netherlands",
+      "type": "Location",
+      "source_sentence": "Company H opens in new markets including Germany, the Netherlands, France and Spain, and Sweden becomes Company H’s first online market.",
+      "attributes": {}
+    },
+    {
+      "id": "France",
+      "type": "Location",
+      "source_sentence": "Company H opens in new markets including Germany, the Netherlands, France and Spain, and Sweden becomes Company H’s first online market.",
+      "attributes": {}
+    },
+    {
+      "id": "Spain",
+      "type": "Location",
+      "source_sentence": "Company H opens in new markets including Germany, the Netherlands, France and Spain, and Sweden becomes Company H’s first online market.",
+      "attributes": {}
+    },
+    {
+      "id": "Sweden",
+      "type": "Location",
+      "source_sentence": "Company H opens in new markets including Germany, the Netherlands, France and Spain, and Sweden becomes Company H’s first online market.",
+      "attributes": {}
+    },
+    {
+      "id": "United States",
+      "type": "Location",
+      "source_sentence": "In 2000, Company H successfully opens its first US store on New York’s Fifth Avenue.",
+      "attributes": {}
+    },
+    {
+      "id": "New York’s Fifth Avenue",
+      "type": "Location",
+      "source_sentence": "In 2000, Company H successfully opens its first US store on New York’s Fifth Avenue.",
+      "attributes": {}
+    },
+    {
+      "id": "Karl Lagerfeld",
+      "type": "Person",
+      "source_sentence": "2004 – High fashion icon Karl Lagerfeld teams up with Company H for our first ever designer collaboration.",
+      "attributes": {
+        "year": {
+          "value": "2004",
+          "unit": null,
+          "verifiable": true,
+          "source": "Karl Lagerfeld teamed up with Company H for the first ever designer collaboration in 2004."
+        },
+        "collaboration_type": {
+          "value": "designer collaboration",
+          "unit": null,
+          "verifiable": true,
+          "source": "Karl Lagerfeld teamed up with Company H for the first ever designer collaboration in 2004."
+        }
+      }
+    },
+    {
+      "id": "Versace",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience, manifesting that design isn’t a matter of price.",
+      "attributes": {}
+    },
+    {
+      "id": "Roberto Cavalli",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience, manifesting that design isn’t a matter of price.",
+      "attributes": {}
+    },
+    {
+      "id": "Balmain",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience, manifesting that design isn’t a matter of price.",
+      "attributes": {}
+    },
+    {
+      "id": "China",
+      "type": "Location",
+      "source_sentence": "The first Company H stores in China and Japan open.",
+      "attributes": {}
+    },
+    {
+      "id": "Japan",
+      "type": "Location",
+      "source_sentence": "The first Company H stores in China and Japan open.",
+      "attributes": {}
+    },
+    {
+      "id": "COS",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Meanwhile, our family is growing with new brands: COS, Monki, Weekday, Cheap Monday and Company H HOME.",
+      "attributes": {}
+    },
+    {
+      "id": "Monki",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Meanwhile, our family is growing with new brands: COS, Monki, Weekday, Cheap Monday and Company H HOME.",
+      "attributes": {}
+    },
+    {
+      "id": "Weekday",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Meanwhile, our family is growing with new brands: COS, Monki, Weekday, Cheap Monday and Company H HOME.",
+      "attributes": {}
+    },
+    {
+      "id": "Cheap Monday",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Meanwhile, our family is growing with new brands: COS, Monki, Weekday, Cheap Monday and Company H HOME.",
+      "attributes": {}
+    },
+    {
+      "id": "Company H HOME",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "Meanwhile, our family is growing with new brands: COS, Monki, Weekday, Cheap Monday and Company H HOME.",
+      "attributes": {}
+    },
+    {
+      "id": "Company H Foundation",
+      "type": "Organization",
+      "source_sentence": "In 2007, Company H Foundation starts as a non‑profit global foundation, which from 2013 onwards, has been funded by the Stefan Persson family.",
+      "attributes": {}
+    },
+    {
+      "id": "Stefan Persson",
+      "type": "Person",
+      "source_sentence": "In 2007, Company H Foundation starts as a non‑profit global foundation, which from 2013 onwards, has been funded by the Stefan Persson family.",
+      "attributes": {
+        "change_year": {
+          "value": "2020",
+          "unit": null,
+          "verifiable": true,
+          "source": "Stefan Persson handed over the chair of the board to Karl‑Johan Persson in 2020."
+        },
+        "new_chair": {
+          "value": "Karl‑Johan Persson",
+          "unit": null,
+          "verifiable": true,
+          "source": "Stefan Persson handed over the chair of the board to Karl‑Johan Persson in 2020."
+        }
+      }
+    },
+    {
+      "id": "Västerås",
+      "type": "Location",
+      "source_sentence": "Erling Persson opens his first womenswear store in Västerås, Sweden.",
+      "attributes": {}
+    },
+    {
+      "id": "Stockholm Stock Exchange",
+      "type": "Organization",
+      "source_sentence": "Company H is listed on the Stockholm Stock Exchange in 1974.",
+      "attributes": {}
+    },
+    {
+      "id": "London",
+      "type": "Location",
+      "source_sentence": "The first store outside Scandinavia opens in London, UK, in 1976.",
+      "attributes": {}
+    },
+    {
+      "id": "UK",
+      "type": "Location",
+      "source_sentence": "The first store outside Scandinavia opens in London, UK, in 1976.",
+      "attributes": {}
+    },
+    {
+      "id": "Global Change Award",
+      "type": "Event",
+      "source_sentence": "2015 – Company H Foundation initiates the Global Change Award, an innovation challenge aiming to make fashion circular.",
+      "attributes": {}
+    },
+    {
+      "id": "India",
+      "type": "Location",
+      "source_sentence": "India and South Africa are among new markets for Company H, and the push into digital continues with ten new online markets.",
+      "attributes": {}
+    },
+    {
+      "id": "South Africa",
+      "type": "Location",
+      "source_sentence": "India and South Africa are among new markets for Company H, and the push into digital continues with ten new online markets.",
+      "attributes": {}
+    },
+    {
+      "id": "ARKET",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "ARKET, a new brand, is launched in 2017.",
+      "attributes": {
+        "launch_year": {
+          "value": "2018",
+          "unit": null,
+          "verifiable": true,
+          "source": "Marketplace Afound was launched in 2018."
+        }
+      }
+    },
+    {
+      "id": "Marketplace Afound",
+      "type": "Concept/Initiative",
+      "source_sentence": "2018–2019 – Marketplace Afound is launched in 2018.",
+      "attributes": {}
+    },
+    {
+      "id": "Garment Collecting initiative",
+      "type": "Concept/Initiative",
+      "source_sentence": "Our Garment Collecting initiative starts, making us the first fashion company to collect old textiles in stores globally for reuse and recycling.",
+      "attributes": {
+        "first_in_industry": {
+          "value": "yes",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Garment Collecting initiative makes Company H the first fashion company to collect old textiles in stores globally for reuse and recycling."
+        },
+        "purpose": {
+          "value": "collect old textiles for reuse and recycling",
+          "unit": null,
+          "verifiable": true,
+          "source": "The Garment Collecting initiative makes Company H the first fashion company to collect old textiles in stores globally for reuse and recycling."
+        }
+      }
+    },
+    {
+      "id": "Singular Society",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "The membership‑based brand Singular Society and the new business venture Creator Studio are launched.",
+      "attributes": {
+        "launch_year": {
+          "value": "2020",
+          "unit": null,
+          "verifiable": true,
+          "source": "Singular Society, a membership‑based brand, was launched in 2020."
+        },
+        "business_model": {
+          "value": "membership‑based",
+          "unit": null,
+          "verifiable": true,
+          "source": "Singular Society, a membership‑based brand, was launched in 2020."
+        }
+      }
+    },
+    {
+      "id": "Creator Studio",
+      "type": "Concept/Initiative",
+      "source_sentence": "The membership‑based brand Singular Society and the new business venture Creator Studio are launched.",
+      "attributes": {
+        "launch_year": {
+          "value": "2020",
+          "unit": null,
+          "verifiable": true,
+          "source": "Creator Studio, a new business venture, was launched in 2020."
+        },
+        "type": {
+          "value": "business venture",
+          "unit": null,
+          "verifiable": true,
+          "source": "Creator Studio, a new business venture, was launched in 2020."
+        }
+      }
+    },
+    {
+      "id": "Company H Move",
+      "type": "Product/Product_Line",
+      "source_sentence": "The new activewear brand Company H Move is launched worldwide.",
+      "attributes": {}
+    },
+    {
+      "id": "Remondis",
+      "type": "Company",
+      "source_sentence": "In 2023, Company H Group and Remondis create Looper, a joint venture to collect, sort and sell used and unwanted garments and textiles.",
+      "attributes": {}
+    },
+    {
+      "id": "Looper",
+      "type": "Partnership",
+      "source_sentence": "In 2023, Company H Group and Remondis create Looper, a joint venture to collect, sort and sell used and unwanted garments and textiles.",
+      "attributes": {}
+    },
+    {
+      "id": "All in Equestrian",
+      "type": "Concept/Initiative",
+      "source_sentence": "All in Equestrian, a new equestrian sports lab within Company H Group, is launched.",
+      "attributes": {
+        "launch_year": {
+          "value": "2023",
+          "unit": null,
+          "verifiable": true,
+          "source": "All in Equestrian, a new equestrian sports lab within Company H Group, was launched in 2023."
+        },
+        "type": {
+          "value": "equestrian sports lab",
+          "unit": null,
+          "verifiable": true,
+          "source": "All in Equestrian, a new equestrian sports lab within Company H Group, was launched in 2023."
+        }
+      }
+    },
+    {
+      "id": "Daniel Ervér",
+      "type": "Person",
+      "source_sentence": "In 2024, Daniel Ervér, formerly the CEO of Company H brand, becomes CEO of Company H Group, taking over from Helena Helmersson.",
+      "attributes": {
+        "year": {
+          "value": "2024",
+          "unit": null,
+          "verifiable": true,
+          "source": "Daniel Ervér became CEO of Company H Group in 2024, succeeding Helena Helmersson."
+        },
+        "position": {
+          "value": "CEO of Company H Group",
+          "unit": null,
+          "verifiable": true,
+          "source": "Daniel Ervér became CEO of Company H Group in 2024, succeeding Helena Helmersson."
+        },
+        "predecessor": {
+          "value": "Helena Helmersson",
+          "unit": null,
+          "verifiable": true,
+          "source": "Daniel Ervér became CEO of Company H Group in 2024, succeeding Helena Helmersson."
+        }
+      }
+    },
+    {
+      "id": "Karl‑Johan Persson",
+      "type": "Person",
+      "source_sentence": "In 2020, after more than 20 years as chair of the board, Stefan Persson hands over to the third generation as Karl‑Johan Persson, CEO since 2009, is elected new chair.",
+      "attributes": {}
+    },
+    {
+      "id": "Helena Helmersson",
+      "type": "Person",
+      "source_sentence": "In 2020, after more than 20 years as chair of the board, Stefan Persson hands over to the third generation as Karl‑Johan Persson, CEO since 2009, is elected new chair, and Helena Helmersson becomes new CEO.",
+      "attributes": {
+        "change_year": {
+          "value": "2020",
+          "unit": null,
+          "verifiable": true,
+          "source": "Helena Helmersson became CEO of Company H Group in 2020."
+        },
+        "position": {
+          "value": "CEO of Company H Group",
+          "unit": null,
+          "verifiable": true,
+          "source": "Helena Helmersson became CEO of Company H Group in 2020."
+        }
+      }
+    },
+    {
+      "id": "Company H Incentive Program (HIP)",
+      "type": "Concept/Initiative",
+      "source_sentence": "2011–2014 – The Company H Incentive Program HIP is introduced in 2011 for all Company H Group employees, starting with a donation by the Stefan Persson family.",
+      "attributes": {}
+    },
+    {
+      "id": "Chile",
+      "type": "Location",
+      "source_sentence": "Company H’s first store in the southern hemisphere opens in Chile.",
+      "attributes": {}
+    },
+    {
+      "id": "& Other Stories",
+      "type": "Brand/Sub-brand",
+      "source_sentence": "New fashion brand & Other Stories is launched in 2013.",
+      "attributes": {}
+    },
+    {
+      "id": "Erling Persson Award",
+      "type": "Concept/Initiative",
+      "source_sentence": "The Erling Persson Award is given annually to recognise colleagues around the world who, make a difference by putting our values into action every day...",
+      "attributes": {}
+    },
+    {
+      "id": "People Engagement Pulses (PEP)",
+      "type": "Concept/Initiative",
+      "source_sentence": "Another example of how we value employee engagement is the voluntary online employee survey People Engagement Pulses (PEP), conducted yearly...",
+      "attributes": {
+        "frequency": {
+          "value": "yearly",
+          "unit": null,
+          "verifiable": true,
+          "source": "People Engagement Pulses (PEP) is a voluntary online employee survey conducted yearly."
+        },
+        "type": {
+          "value": "voluntary online employee survey",
+          "unit": null,
+          "verifiable": true,
+          "source": "People Engagement Pulses (PEP) is a voluntary online employee survey conducted yearly."
+        }
+      }
+    },
+    {
+      "id": "Unstereotype Alliance",
+      "type": "Organization",
+      "source_sentence": "All our brands follow the guidelines provided by our partner Unstereotype Alliance, an industry‑led initiative convened by UN Women...",
+      "attributes": {
+        "convened_by": {
+          "value": "UN Women",
+          "unit": null,
+          "verifiable": true,
+          "source": "All brands follow advertising guidelines provided by Unstereotype Alliance, an initiative convened by UN Women."
+        }
+      }
+    },
+    {
+      "id": "UN Women",
+      "type": "Organization",
+      "source_sentence": "All our brands follow the guidelines provided by our partner Unstereotype Alliance, an industry‑led initiative convened by UN Women...",
+      "attributes": {}
+    },
+    {
+      "id": "OECD Transfer Pricing guidelines",
+      "type": "Certification",
+      "source_sentence": "Company H Group’s internal transaction model is fully in line with the OECD Transfer Pricing guidelines.",
+      "attributes": {}
+    },
+    {
+      "id": "Nasdaq Stockholm",
+      "type": "Organization",
+      "source_sentence": "H & M Hennes & Mauritz AB is publicly listed on the Nasdaq Stockholm stock exchange...",
+      "attributes": {}
+    },
+    {
+      "id": "EU’s Market Abuse Regulation",
+      "type": "Certification",
+      "source_sentence": "Our financial communication abides by the stipulated laws and regulations and is intentionally neutral and transparent. We comply with the information regulations laid down by Nasdaq Stockholm and the EU’s Market Abuse Regulation.",
+      "attributes": {}
+    },
+    {
+      "id": "H & M Hennes & Mauritz AB",
+      "type": "Company",
+      "source_sentence": "H & M Hennes & Mauritz AB is publicly listed on the Nasdaq Stockholm stock exchange...",
+      "attributes": {}
+    },
+    {
+      "id": "STMT_19",
+      "type": "FactualStatement",
+      "statement": "Company H set a net‑zero value chain target for 2040.",
+      "category": "Commitment/Goal",
+      "is_verifiable": true,
+      "source_sentence": "New sustainability goals include a net‑zero value chain by 2040 and the use of only recycled or other sustainably sourced materials by 2030.",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_year",
+          "attribute_value": "2040",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "goal",
+          "attribute_value": "net‑zero value chain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_20",
+      "type": "FactualStatement",
+      "statement": "Company H aims to use only recycled or other sustainably sourced materials by 2030.",
+      "category": "Commitment/Goal, Sustainability",
+      "is_verifiable": true,
+      "source_sentence": "New sustainability goals include a net‑zero value chain by 2040 and the use of only recycled or other sustainably sourced materials by 2030.",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_year",
+          "attribute_value": "2030",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "material_goal",
+          "attribute_value": "only recycled or other sustainably sourced materials",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_24",
+      "type": "FactualStatement",
+      "statement": "In 2019, customers handed in 29,005 tonnes of old textiles to Company H stores globally for reuse and recycling.",
+      "category": "Sustainability, History",
+      "is_verifiable": true,
+      "source_sentence": "In 2019, customers hand in 29,005 tonnes of old textiles to our stores globally for reuse and recycling, already exceeding our target of collecting 25,000 tonnes per year by 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "textile_reused_recycled",
+          "attribute_value": "29,005",
+          "attribute_unit": "tonnes"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_25",
+      "type": "FactualStatement",
+      "statement": "The target was to collect 25,000 tonnes of old textiles per year by 2020.",
+      "category": "Sustainability, Commitment/Goal",
+      "is_verifiable": true,
+      "source_sentence": "In 2019, customers hand in 29,005 tonnes of old textiles to our stores globally for reuse and recycling, already exceeding our target of collecting 25,000 tonnes per year by 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_tonnage",
+          "attribute_value": "25",
+          "attribute_unit": "tonnes"
+        },
+        {
+          "attribute_name": "target_year",
+          "attribute_value": "2020",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_29",
+      "type": "FactualStatement",
+      "statement": "Company H Group set a climate target to halve absolute greenhouse gas emissions by 2030.",
+      "category": "Commitment/Goal, Sustainability",
+      "is_verifiable": true,
+      "source_sentence": "Our latest climate targets to halve absolute greenhouse gas emissions by 2030 are introduced.",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_year",
+          "attribute_value": "2030",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "reduction_goal",
+          "attribute_value": "halve absolute greenhouse gas emissions",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_43",
+      "type": "FactualStatement",
+      "statement": "Company H Group works with artificial intelligence, analytics and data across its operations to optimise business decisions.",
+      "category": "Process",
+      "is_verifiable": true,
+      "source_sentence": "At Company H Group, we work with artificial intelligence, analytics and data across our operations to optimise business decisions and create an even better experience for our customers.",
+      "structured_attributes": [
+        {
+          "attribute_name": "technology",
+          "attribute_value": "artificial intelligence, analytics, data",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "optimise business decisions",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_44",
+      "type": "FactualStatement",
+      "statement": "Company H Group follows nine Responsible AI principles: Focused, Beneficial, Fair, Transparent, Governed, Collaborative, Reliable, Respecting Human Agency, and Secure.",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "source_sentence": "Our mission is twofold: we are using the power of AI and data to reach our sustainability goals and create sustainable growth; and we are actively working to prevent causing any unintentional harm in our AI and data-driven operations. This work is guided by nine principles we believe are crucial for Responsible AI.",
+      "structured_attributes": [
+        {
+          "attribute_name": "principles_count",
+          "attribute_value": "9",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "principles",
+          "attribute_value": "Focused, Beneficial, Fair, Transparent, Governed, Collaborative, Reliable, Respecting Human Agency, Secure",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_45",
+      "type": "FactualStatement",
+      "statement": "Company H Group does not own any factories.",
+      "category": "Process",
+      "is_verifiable": true,
+      "source_sentence": "Company H Group does not own any factories, but instead buys products from suppliers, primarily in Asia but also from Europe and Africa.",
+      "structured_attributes": [
+        {
+          "attribute_name": "factory_ownership",
+          "attribute_value": "none",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_46",
+      "type": "FactualStatement",
+      "statement": "Company H Group buys products from suppliers primarily in Asia, also from Europe and Africa.",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "source_sentence": "Company H Group does not own any factories, but instead buys products from suppliers, primarily in Asia but also from Europe and Africa.",
+      "structured_attributes": [
+        {
+          "attribute_name": "primary_supplier_region",
+          "attribute_value": "Asia",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "secondary_supplier_regions",
+          "attribute_value": "Europe, Africa",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_47",
+      "type": "FactualStatement",
+      "statement": "Company H Group’s Human Rights policy is set in accordance with the UN Guiding Principles on Business and Human Rights.",
+      "category": "Certification",
+      "is_verifiable": true,
+      "source_sentence": "Overarching all our standards and policies is our Human Rights policy, set in accordance with the UN Guiding Principles on Business and Human Rights.",
+      "structured_attributes": [
+        {
+          "attribute_name": "reference_framework",
+          "attribute_value": "UN Guiding Principles on Business and Human Rights",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_48",
+      "type": "FactualStatement",
+      "statement": "Company H Group has zero tolerance for all forms of bribery and corruption and a strict no‑gift policy.",
+      "category": "Policy",
+      "is_verifiable": true,
+      "source_sentence": "We have zero tolerance of all forms of bribery and corruption. Gifts and advantages are never tolerated, regardless of value, therefore we have a strict no‑gift policy.",
+      "structured_attributes": [
+        {
+          "attribute_name": "bribery_tolerance",
+          "attribute_value": "zero",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "gift_policy",
+          "attribute_value": "strict no‑gift",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_52",
+      "type": "FactualStatement",
+      "statement": "Company H Group is tax compliant and pays its taxes at the appropriate times.",
+      "category": "Commitment/Goal",
+      "is_verifiable": true,
+      "source_sentence": "Company H Group is tax compliant. Our tax policy always reflects our business. Company H Group pays its taxes at the appropriate times.",
+      "structured_attributes": [
+        {
+          "attribute_name": "tax_compliance",
+          "attribute_value": "yes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_53",
+      "type": "FactualStatement",
+      "statement": "Company H Group does not provide financial contributions to individual politicians or political parties.",
+      "category": "Policy",
+      "is_verifiable": true,
+      "source_sentence": "Company H Group does not provide financial contributions to individual politicians or political parties.",
+      "structured_attributes": [
+        {
+          "attribute_name": "political_contributions",
+          "attribute_value": "none",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_54",
+      "type": "FactualStatement",
+      "statement": "Company H Group is dedicated to promoting fair competition.",
+      "category": "Policy",
+      "is_verifiable": true,
+      "source_sentence": "Company H Group is dedicated to promoting fair competition and we make sure to operate our business accordingly.",
+      "structured_attributes": [
+        {
+          "attribute_name": "fair_competition_commitment",
+          "attribute_value": "dedicated",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_57",
+      "type": "FactualStatement",
+      "statement": "Company H Group’s Data Privacy Community supports colleagues with data‑privacy enquiries and escalations.",
+      "category": "Process",
+      "is_verifiable": true,
+      "source_sentence": "The Company H Group Data Privacy Community is responsible to support all colleagues with data privacy related enquiries and escalation of privacy issues.",
+      "structured_attributes": [
+        {
+          "attribute_name": "function",
+          "attribute_value": "support colleagues with data‑privacy enquiries and escalations",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_58",
+      "type": "FactualStatement",
+      "statement": "Company H Group’s Speak Up channel allows employees to report concerns or allegations of misconduct.",
+      "category": "Process",
+      "is_verifiable": true,
+      "source_sentence": "If a concern can’t be resolved through direct dialogue, it can always be formally reported via Company H Group’s Speak Up channel at speakup.hmgroup.com.",
+      "structured_attributes": [
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "report concerns or allegations of misconduct",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "url",
+          "attribute_value": "speakup.hmgroup.com",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_59",
+      "type": "FactualStatement",
+      "statement": "Company H Group’s Code of Ethics requires employees and business partners to sign and follow it.",
+      "category": "Policy",
+      "is_verifiable": true,
+      "source_sentence": "Conducting business in an ethical manner is crucial and we require both employees and business partners to sign and follow our Code of Ethics.",
+      "structured_attributes": [
+        {
+          "attribute_name": "signing_requirement",
+          "attribute_value": "employees and business partners must sign",
+          "attribute_unit": null
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Company H Group",
+      "target": "Sellpy",
+      "relationship": "related_to",
+      "category": "Partnership",
+      "is_verifiable": true,
+      "statement": "Company H Group is a majority owner in second‑hand platform Sellpy.",
+      "structured_attributes": [
+        {
+          "attribute_name": "ownership_share",
+          "attribute_value": "majority",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "platform",
+          "attribute_value": "Sellpy",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Erling Persson",
+      "relationship": "related_to",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "statement": "Erling Persson wanted to make great fashion available and affordable to everyone and do this in the right way."
+    },
+    {
+      "source": "Company H Group",
+      "target": "Hennes",
+      "relationship": "mentions",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "In 1964, Hennes expands abroad and opens in Norway.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1964",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "new_market",
+          "attribute_value": "Norway",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Norway",
+      "relationship": "mentions",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "In 1964, Hennes expands abroad and opens in Norway.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1964",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "new_market",
+          "attribute_value": "Norway",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Mauritz Widforss",
+      "relationship": "mentions",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "In 1968, Erling buys the hunting store Mauritz Widforss in Stockholm.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1968",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "acquired_store",
+          "attribute_value": "Mauritz Widforss",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Stockholm",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Stockholm",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Group is publicly listed on the Nasdaq Stockholm stock exchange.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Nasdaq Stockholm",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Hennes & Mauritz",
+      "relationship": "mentions",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "The name is changed to Hennes & Mauritz."
+    },
+    {
+      "source": "Company H Group",
+      "target": "Germany",
+      "relationship": "mentions",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Netherlands",
+      "relationship": "mentions",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "France",
+      "relationship": "mentions",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Spain",
+      "relationship": "mentions",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "ARKET",
+      "relationship": "related_to",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company H Group complies with the EU’s Market Abuse Regulation.",
+      "structured_attributes": [
+        {
+          "attribute_name": "regulation",
+          "attribute_value": "EU’s Market Abuse Regulation",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Sweden",
+      "relationship": "mentions",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Sweden becomes Company H’s first online market.",
+      "structured_attributes": [
+        {
+          "attribute_name": "first_online_market",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "New York’s Fifth Avenue",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "In 2000, Company H successfully opens its first US store on New York’s Fifth Avenue.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "2000",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_location",
+          "attribute_value": "New York’s Fifth Avenue",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_type",
+          "attribute_value": "first US store",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Karl Lagerfeld",
+      "relationship": "related_to",
+      "category": "Partnership",
+      "is_verifiable": true,
+      "statement": "Karl Lagerfeld teamed up with Company H for the first ever designer collaboration in 2004.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "2004",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "collaboration_type",
+          "attribute_value": "designer collaboration",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Versace",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner_brands",
+          "attribute_value": "Versace, Roberto Cavalli, Balmain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Roberto Cavalli",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner_brands",
+          "attribute_value": "Versace, Roberto Cavalli, Balmain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Balmain",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner_brands",
+          "attribute_value": "Versace, Roberto Cavalli, Balmain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "China",
+      "relationship": "mentions",
+      "category": "Geographic, History",
+      "is_verifiable": true,
+      "statement": "The first Company H stores in China and Japan open between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "China, Japan",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Japan",
+      "relationship": "mentions",
+      "category": "Geographic, History",
+      "is_verifiable": true,
+      "statement": "The first Company H stores in China and Japan open between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "China, Japan",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Monki",
+      "relationship": "mentions",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Weekday",
+      "relationship": "mentions",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Cheap Monday",
+      "relationship": "mentions",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Company H HOME",
+      "relationship": "mentions",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Company H Foundation",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Foundation is privately funded by the Stefan Persson family, founders and main owners of Company H Group.",
+      "structured_attributes": [
+        {
+          "attribute_name": "funding_source",
+          "attribute_value": "Stefan Persson family",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "relationship_to_Company H_Group",
+          "attribute_value": "founders and main owners",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Stefan Persson",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Foundation is privately funded by the Stefan Persson family, founders and main owners of Company H Group.",
+      "structured_attributes": [
+        {
+          "attribute_name": "funding_source",
+          "attribute_value": "Stefan Persson family",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "relationship_to_Company H_Group",
+          "attribute_value": "founders and main owners",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Västerås",
+      "relationship": "mentions",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1947",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Västerås",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_name",
+          "attribute_value": "Hennes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Stockholm Stock Exchange",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Group is publicly listed on the Nasdaq Stockholm stock exchange.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Nasdaq Stockholm",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "London",
+      "relationship": "related_to",
+      "category": "History, Geographic",
+      "is_verifiable": true,
+      "statement": "The first Company H store outside Scandinavia opened in London, UK in 1976.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1976",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "London",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "UK",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Global Change Award",
+      "relationship": "mentions",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Company H Foundation initiated the Global Change Award in 2015.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "2015",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "award_name",
+          "attribute_value": "Global Change Award",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "India",
+      "relationship": "mentions",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "India and South Africa became new markets for Company H in 2015.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "India, South Africa",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2015",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "South Africa",
+      "relationship": "mentions",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "India and South Africa became new markets for Company H in 2015.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "India, South Africa",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2015",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_19",
+      "relationship": "has_claim",
+      "category": "Commitment/Goal",
+      "is_verifiable": true,
+      "statement": "Company H set a net‑zero value chain target for 2040.",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_year",
+          "attribute_value": "2040",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "goal",
+          "attribute_value": "net‑zero value chain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_20",
+      "relationship": "has_claim",
+      "category": "Commitment/Goal, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company H aims to use only recycled or other sustainably sourced materials by 2030.",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_year",
+          "attribute_value": "2030",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "material_goal",
+          "attribute_value": "only recycled or other sustainably sourced materials",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Marketplace Afound",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Marketplace Afound was launched in 2018.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2018",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_24",
+      "relationship": "has_claim",
+      "category": "Sustainability, History",
+      "is_verifiable": true,
+      "statement": "In 2019, customers handed in 29,005 tonnes of old textiles to Company H stores globally for reuse and recycling.",
+      "structured_attributes": [
+        {
+          "attribute_name": "textile_reused_recycled",
+          "attribute_value": "29,005",
+          "attribute_unit": "tonnes"
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2019",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_25",
+      "relationship": "has_claim",
+      "category": "Sustainability, Commitment/Goal",
+      "is_verifiable": true,
+      "statement": "The target was to collect 25,000 tonnes of old textiles per year by 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_tonnage",
+          "attribute_value": "25",
+          "attribute_unit": "tonnes"
+        },
+        {
+          "attribute_name": "target_year",
+          "attribute_value": "2020",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Karl‑Johan Persson",
+      "relationship": "mentions",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Stefan Persson handed over the chair of the board to Karl‑Johan Persson in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "change_year",
+          "attribute_value": "2020",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "new_chair",
+          "attribute_value": "Karl‑Johan Persson",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Helena Helmersson",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Daniel Ervér became CEO of Company H Group in 2024, succeeding Helena Helmersson.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "2024",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "position",
+          "attribute_value": "CEO of Company H Group",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "predecessor",
+          "attribute_value": "Helena Helmersson",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_29",
+      "relationship": "has_claim",
+      "category": "Commitment/Goal, Sustainability",
+      "is_verifiable": true,
+      "statement": "Company H Group set a climate target to halve absolute greenhouse gas emissions by 2030.",
+      "structured_attributes": [
+        {
+          "attribute_name": "target_year",
+          "attribute_value": "2030",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "reduction_goal",
+          "attribute_value": "halve absolute greenhouse gas emissions",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Singular Society",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Singular Society, a membership‑based brand, was launched in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2020",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "business_model",
+          "attribute_value": "membership‑based",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Creator Studio",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Creator Studio, a new business venture, was launched in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2020",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "type",
+          "attribute_value": "business venture",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Company H Move",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Company H Move, a new activewear brand, was launched worldwide in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2020",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "category",
+          "attribute_value": "activewear",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "geographic_scope",
+          "attribute_value": "worldwide",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Remondis",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "In 2023, Company H Group and Remondis created Looper, a joint venture to collect, sort and sell used and unwanted garments and textiles.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Remondis",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "joint_venture_name",
+          "attribute_value": "Looper",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2023",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "collect, sort and sell used and unwanted garments and textiles",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Looper",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "In 2023, Company H Group and Remondis created Looper, a joint venture to collect, sort and sell used and unwanted garments and textiles.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Remondis",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "joint_venture_name",
+          "attribute_value": "Looper",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2023",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "collect, sort and sell used and unwanted garments and textiles",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "All in Equestrian",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "All in Equestrian, a new equestrian sports lab within Company H Group, was launched in 2023.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2023",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "type",
+          "attribute_value": "equestrian sports lab",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Daniel Ervér",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Daniel Ervér became CEO of Company H Group in 2024, succeeding Helena Helmersson.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "2024",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "position",
+          "attribute_value": "CEO of Company H Group",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "predecessor",
+          "attribute_value": "Helena Helmersson",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Company H Incentive Program (HIP)",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "The Company H Incentive Program (HIP) was introduced in 2011 for all Company H Group employees.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2011",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "eligible_group",
+          "attribute_value": "all Company H Group employees",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Chile",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opened its first store in the southern hemisphere in Chile.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_location",
+          "attribute_value": "Chile",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "region",
+          "attribute_value": "southern hemisphere",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Garment Collecting initiative",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "The Garment Collecting initiative makes Company H the first fashion company to collect old textiles in stores globally for reuse and recycling.",
+      "structured_attributes": [
+        {
+          "attribute_name": "first_in_industry",
+          "attribute_value": "yes",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "collect old textiles for reuse and recycling",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Erling Persson Award",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "The Erling Persson Award is given annually to recognise colleagues worldwide who put values into action.",
+      "structured_attributes": [
+        {
+          "attribute_name": "frequency",
+          "attribute_value": "annually",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "recognise colleagues who put values into action",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "People Engagement Pulses (PEP)",
+      "relationship": "related_to",
+      "category": "Process",
+      "is_verifiable": true,
+      "statement": "People Engagement Pulses (PEP) is a voluntary online employee survey conducted yearly.",
+      "structured_attributes": [
+        {
+          "attribute_name": "frequency",
+          "attribute_value": "yearly",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "type",
+          "attribute_value": "voluntary online employee survey",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Unstereotype Alliance",
+      "relationship": "mentions",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "All brands follow advertising guidelines provided by Unstereotype Alliance, an initiative convened by UN Women.",
+      "structured_attributes": [
+        {
+          "attribute_name": "convened_by",
+          "attribute_value": "UN Women",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "UN Women",
+      "relationship": "mentions",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "All brands follow advertising guidelines provided by Unstereotype Alliance, an initiative convened by UN Women.",
+      "structured_attributes": [
+        {
+          "attribute_name": "convened_by",
+          "attribute_value": "UN Women",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_43",
+      "relationship": "has_claim",
+      "category": "Process",
+      "is_verifiable": true,
+      "statement": "Company H Group works with artificial intelligence, analytics and data across its operations to optimise business decisions.",
+      "structured_attributes": [
+        {
+          "attribute_name": "technology",
+          "attribute_value": "artificial intelligence, analytics, data",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "optimise business decisions",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_44",
+      "relationship": "has_claim",
+      "category": "Concept/Initiative",
+      "is_verifiable": true,
+      "statement": "Company H Group follows nine Responsible AI principles: Focused, Beneficial, Fair, Transparent, Governed, Collaborative, Reliable, Respecting Human Agency, and Secure.",
+      "structured_attributes": [
+        {
+          "attribute_name": "principles_count",
+          "attribute_value": "9",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "principles",
+          "attribute_value": "Focused, Beneficial, Fair, Transparent, Governed, Collaborative, Reliable, Respecting Human Agency, Secure",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_45",
+      "relationship": "has_claim",
+      "category": "Process",
+      "is_verifiable": true,
+      "statement": "Company H Group does not own any factories.",
+      "structured_attributes": [
+        {
+          "attribute_name": "factory_ownership",
+          "attribute_value": "none",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_46",
+      "relationship": "has_claim",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H Group buys products from suppliers primarily in Asia, also from Europe and Africa.",
+      "structured_attributes": [
+        {
+          "attribute_name": "primary_supplier_region",
+          "attribute_value": "Asia",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "secondary_supplier_regions",
+          "attribute_value": "Europe, Africa",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_47",
+      "relationship": "has_claim",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company H Group’s Human Rights policy is set in accordance with the UN Guiding Principles on Business and Human Rights.",
+      "structured_attributes": [
+        {
+          "attribute_name": "reference_framework",
+          "attribute_value": "UN Guiding Principles on Business and Human Rights",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_48",
+      "relationship": "has_claim",
+      "category": "Policy",
+      "is_verifiable": true,
+      "statement": "Company H Group has zero tolerance for all forms of bribery and corruption and a strict no‑gift policy.",
+      "structured_attributes": [
+        {
+          "attribute_name": "bribery_tolerance",
+          "attribute_value": "zero",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "gift_policy",
+          "attribute_value": "strict no‑gift",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "Nasdaq Stockholm",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Group is publicly listed on the Nasdaq Stockholm stock exchange.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Nasdaq Stockholm",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "OECD Transfer Pricing guidelines",
+      "relationship": "related_to",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company H Group’s internal transaction model complies with the OECD Transfer Pricing guidelines.",
+      "structured_attributes": [
+        {
+          "attribute_name": "guideline",
+          "attribute_value": "OECD Transfer Pricing guidelines",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "EU’s Market Abuse Regulation",
+      "relationship": "related_to",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company H Group complies with the EU’s Market Abuse Regulation.",
+      "structured_attributes": [
+        {
+          "attribute_name": "regulation",
+          "attribute_value": "EU’s Market Abuse Regulation",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_52",
+      "relationship": "has_claim",
+      "category": "Commitment/Goal",
+      "is_verifiable": true,
+      "statement": "Company H Group is tax compliant and pays its taxes at the appropriate times.",
+      "structured_attributes": [
+        {
+          "attribute_name": "tax_compliance",
+          "attribute_value": "yes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_53",
+      "relationship": "has_claim",
+      "category": "Policy",
+      "is_verifiable": true,
+      "statement": "Company H Group does not provide financial contributions to individual politicians or political parties.",
+      "structured_attributes": [
+        {
+          "attribute_name": "political_contributions",
+          "attribute_value": "none",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_54",
+      "relationship": "has_claim",
+      "category": "Policy",
+      "is_verifiable": true,
+      "statement": "Company H Group is dedicated to promoting fair competition.",
+      "structured_attributes": [
+        {
+          "attribute_name": "fair_competition_commitment",
+          "attribute_value": "dedicated",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_57",
+      "relationship": "has_claim",
+      "category": "Process",
+      "is_verifiable": true,
+      "statement": "Company H Group’s Data Privacy Community supports colleagues with data‑privacy enquiries and escalations.",
+      "structured_attributes": [
+        {
+          "attribute_name": "function",
+          "attribute_value": "support colleagues with data‑privacy enquiries and escalations",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_58",
+      "relationship": "has_claim",
+      "category": "Process",
+      "is_verifiable": true,
+      "statement": "Company H Group’s Speak Up channel allows employees to report concerns or allegations of misconduct.",
+      "structured_attributes": [
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "report concerns or allegations of misconduct",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "url",
+          "attribute_value": "speakup.hmgroup.com",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Group",
+      "target": "STMT_59",
+      "relationship": "has_claim",
+      "category": "Policy",
+      "is_verifiable": true,
+      "statement": "Company H Group’s Code of Ethics requires employees and business partners to sign and follow it.",
+      "structured_attributes": [
+        {
+          "attribute_name": "signing_requirement",
+          "attribute_value": "employees and business partners must sign",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Erling Persson",
+      "target": "Hennes",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1947",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Västerås",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_name",
+          "attribute_value": "Hennes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Erling Persson",
+      "target": "Sweden",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1947",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Västerås",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_name",
+          "attribute_value": "Hennes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Erling Persson",
+      "target": "Västerås",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1947",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Västerås",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_name",
+          "attribute_value": "Hennes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Erling Persson",
+      "target": "Erling Persson Award",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "The Erling Persson Award is given annually to recognise colleagues worldwide who put values into action.",
+      "structured_attributes": [
+        {
+          "attribute_name": "frequency",
+          "attribute_value": "annually",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "recognise colleagues who put values into action",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Hennes",
+      "target": "Norway",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "In 1964, Hennes expands abroad and opens in Norway.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1964",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "new_market",
+          "attribute_value": "Norway",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Hennes",
+      "target": "Hennes & Mauritz",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "The name is changed to Hennes & Mauritz."
+    },
+    {
+      "source": "Hennes",
+      "target": "Sweden",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1947",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Västerås",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_name",
+          "attribute_value": "Hennes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Hennes",
+      "target": "Västerås",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1947",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Västerås",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_name",
+          "attribute_value": "Hennes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Mauritz Widforss",
+      "target": "Stockholm",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "In 1968, Erling buys the hunting store Mauritz Widforss in Stockholm.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1968",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "acquired_store",
+          "attribute_value": "Mauritz Widforss",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Stockholm",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Stockholm",
+      "target": "Stockholm Stock Exchange",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Group is publicly listed on the Nasdaq Stockholm stock exchange.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Nasdaq Stockholm",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Stockholm",
+      "target": "Nasdaq Stockholm",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Group is publicly listed on the Nasdaq Stockholm stock exchange.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Nasdaq Stockholm",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Netherlands",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Spain",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "ARKET",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Netherlands",
+      "target": "France",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Netherlands",
+      "target": "Spain",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Netherlands",
+      "target": "ARKET",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "France",
+      "target": "Spain",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "France",
+      "target": "ARKET",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Spain",
+      "target": "ARKET",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Company H opens in new markets including Germany, the Netherlands, France and Spain.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "Germany, Netherlands, France, Spain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Sweden",
+      "target": "ARKET",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "Sweden becomes Company H’s first online market.",
+      "structured_attributes": [
+        {
+          "attribute_name": "first_online_market",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Sweden",
+      "target": "Västerås",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Erling Persson opened his first womenswear store in Västerås, Sweden in 1947, named Hennes.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1947",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "city",
+          "attribute_value": "Västerås",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "country",
+          "attribute_value": "Sweden",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_name",
+          "attribute_value": "Hennes",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Versace",
+      "target": "Roberto Cavalli",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner_brands",
+          "attribute_value": "Versace, Roberto Cavalli, Balmain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Versace",
+      "target": "Balmain",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner_brands",
+          "attribute_value": "Versace, Roberto Cavalli, Balmain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Roberto Cavalli",
+      "target": "Balmain",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Since then, Company H has made fashion giants like Versace, Roberto Cavalli, Balmain and many more accessible to a wider audience.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner_brands",
+          "attribute_value": "Versace, Roberto Cavalli, Balmain",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "China",
+      "target": "Japan",
+      "relationship": "related_to",
+      "category": "Geographic, History",
+      "is_verifiable": true,
+      "statement": "The first Company H stores in China and Japan open between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "China, Japan",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Monki",
+      "target": "Weekday",
+      "relationship": "related_to",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Monki",
+      "target": "Cheap Monday",
+      "relationship": "related_to",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Monki",
+      "target": "Company H HOME",
+      "relationship": "related_to",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Weekday",
+      "target": "Cheap Monday",
+      "relationship": "related_to",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Weekday",
+      "target": "Company H HOME",
+      "relationship": "related_to",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Cheap Monday",
+      "target": "Company H HOME",
+      "relationship": "related_to",
+      "category": "Achievement, History",
+      "is_verifiable": true,
+      "statement": "New brands COS, Monki, Weekday, Cheap Monday and Company H HOME are added to the group between 2006 and 2010.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_brands",
+          "attribute_value": "COS, Monki, Weekday, Cheap Monday, Company H HOME",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "period",
+          "attribute_value": "2006–2010",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Foundation",
+      "target": "Stefan Persson",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Foundation is privately funded by the Stefan Persson family, founders and main owners of Company H Group.",
+      "structured_attributes": [
+        {
+          "attribute_name": "funding_source",
+          "attribute_value": "Stefan Persson family",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "relationship_to_Company H_Group",
+          "attribute_value": "founders and main owners",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company H Foundation",
+      "target": "Global Change Award",
+      "relationship": "related_to",
+      "category": "History",
+      "is_verifiable": true,
+      "statement": "Company H Foundation initiated the Global Change Award in 2015.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "2015",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "award_name",
+          "attribute_value": "Global Change Award",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Stefan Persson",
+      "target": "Karl‑Johan Persson",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Stefan Persson handed over the chair of the board to Karl‑Johan Persson in 2020.",
+      "structured_attributes": [
+        {
+          "attribute_name": "change_year",
+          "attribute_value": "2020",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "new_chair",
+          "attribute_value": "Karl‑Johan Persson",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Stefan Persson",
+      "target": "Company H Incentive Program (HIP)",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "The Company H Incentive Program (HIP) started with a donation by the Stefan Persson family.",
+      "structured_attributes": [
+        {
+          "attribute_name": "initial_funding_source",
+          "attribute_value": "Stefan Persson family",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Stockholm Stock Exchange",
+      "target": "Nasdaq Stockholm",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Company H Group is publicly listed on the Nasdaq Stockholm stock exchange.",
+      "structured_attributes": [
+        {
+          "attribute_name": "stock_exchange",
+          "attribute_value": "Nasdaq Stockholm",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "India",
+      "target": "South Africa",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "India and South Africa became new markets for Company H in 2015.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "India, South Africa",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2015",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "India",
+      "target": "ARKET",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "India and South Africa became new markets for Company H in 2015.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "India, South Africa",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2015",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "South Africa",
+      "target": "ARKET",
+      "relationship": "related_to",
+      "category": "Geographic",
+      "is_verifiable": true,
+      "statement": "India and South Africa became new markets for Company H in 2015.",
+      "structured_attributes": [
+        {
+          "attribute_name": "new_markets",
+          "attribute_value": "India, South Africa",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2015",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "ARKET",
+      "target": "Marketplace Afound",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": true,
+      "statement": "Marketplace Afound was launched in 2018.",
+      "structured_attributes": [
+        {
+          "attribute_name": "launch_year",
+          "attribute_value": "2018",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "ARKET",
+      "target": "EU’s Market Abuse Regulation",
+      "relationship": "related_to",
+      "category": "Certification",
+      "is_verifiable": true,
+      "statement": "Company H Group complies with the EU’s Market Abuse Regulation.",
+      "structured_attributes": [
+        {
+          "attribute_name": "regulation",
+          "attribute_value": "EU’s Market Abuse Regulation",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Remondis",
+      "target": "Looper",
+      "relationship": "related_to",
+      "category": "Partnership, Sustainability",
+      "is_verifiable": true,
+      "statement": "In 2023, Company H Group and Remondis created Looper, a joint venture to collect, sort and sell used and unwanted garments and textiles.",
+      "structured_attributes": [
+        {
+          "attribute_name": "partner",
+          "attribute_value": "Remondis",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "joint_venture_name",
+          "attribute_value": "Looper",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "year",
+          "attribute_value": "2023",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "purpose",
+          "attribute_value": "collect, sort and sell used and unwanted garments and textiles",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Daniel Ervér",
+      "target": "Helena Helmersson",
+      "relationship": "related_to",
+      "category": "Organizational",
+      "is_verifiable": true,
+      "statement": "Daniel Ervér became CEO of Company H Group in 2024, succeeding Helena Helmersson.",
+      "structured_attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "2024",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "position",
+          "attribute_value": "CEO of Company H Group",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "predecessor",
+          "attribute_value": "Helena Helmersson",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Unstereotype Alliance",
+      "target": "UN Women",
+      "relationship": "related_to",
+      "category": "Sustainability",
+      "is_verifiable": true,
+      "statement": "All brands follow advertising guidelines provided by Unstereotype Alliance, an initiative convened by UN Women.",
+      "structured_attributes": [
+        {
+          "attribute_name": "convened_by",
+          "attribute_value": "UN Women",
+          "attribute_unit": null
+        }
+      ]
+    }
+  ]
+}

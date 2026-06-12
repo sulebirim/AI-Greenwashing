@@ -1,0 +1,1051 @@
+{
+  "company_name": "Company G En",
+  "main_company": "Company G",
+  "total_nodes": 20,
+  "total_edges": 55,
+  "nodes": [
+    {
+      "id": "Company G",
+      "type": "Company",
+      "source_sentence": "Founded in 1970, Company G continues to shape fashion as one of Turkey's most established and prestigious women's clothing brands.",
+      "attributes": {
+        "founding_year": {
+          "value": "1970",
+          "unit": null,
+          "verifiable": true,
+          "source": "Founded in 1970, Company G continues to shape fashion as one of Turkey's most established and prestigious women's clothing brands."
+        },
+        "size_range": {
+          "value": "36-48",
+          "unit": null,
+          "verifiable": false,
+          "source": "Company G aims to make every woman feel special and powerful, oHering a wide collection in sizes 36-48, providing a unique fashion experience that caters to diHerent sizes and styles."
+        },
+        "store_count": {
+          "value": "70",
+          "unit": "stores",
+          "verifiable": true,
+          "source": "Today, with 70 stores and over 400 employees, we serve throughout Turkey and internationally with our stores abroad."
+        },
+        "employee_count": {
+          "value": "400",
+          "unit": "employees",
+          "verifiable": true,
+          "source": "Today, with 70 stores and over 400 employees, we serve throughout Turkey and internationally with our stores abroad."
+        },
+        "geographic_coverage": {
+          "value": "Turkey and internationally",
+          "unit": null,
+          "verifiable": true,
+          "source": "Today, with 70 stores and over 400 employees, we serve throughout Turkey and internationally with our stores abroad."
+        },
+        "countries": {
+          "value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "unit": null,
+          "verifiable": false,
+          "source": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+        },
+        "opening_year": {
+          "value": "2018",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 2018, with our first international store opening in Baku, we took strong steps in the global market, bringing Turkish fashion to the world."
+        },
+        "store_location": {
+          "value": "Baku",
+          "unit": null,
+          "verifiable": true,
+          "source": "In 2018, with our first international store opening in Baku, we took strong steps in the global market, bringing Turkish fashion to the world."
+        },
+        "channel": {
+          "value": "online store",
+          "unit": null,
+          "verifiable": false,
+          "source": "With our online store, we reach every corner of the world, oHering fashion lovers an unlimited shopping experience."
+        },
+        "coverage": {
+          "value": "every corner of the world",
+          "unit": null,
+          "verifiable": false,
+          "source": "With our online store, we reach every corner of the world, oHering fashion lovers an unlimited shopping experience."
+        },
+        "delivery_method": {
+          "value": "doorstep",
+          "unit": null,
+          "verifiable": false,
+          "source": "With every order, we bring style and quality to your doorstep."
+        },
+        "product_attributes": {
+          "value": "style, quality",
+          "unit": null,
+          "verifiable": false,
+          "source": "With every order, we bring style and quality to your doorstep."
+        }
+      }
+    },
+    {
+      "id": "Turkey",
+      "type": "Location",
+      "source_sentence": "Founded in 1970, Company G continues to shape fashion as one of Turkey's most established and prestigious women's clothing brands.",
+      "attributes": {}
+    },
+    {
+      "id": "Türkiye",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "Kuwait",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "the UK",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "the United Arab Emirates",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "Saudi Arabia",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "Iraq",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "Azerbaijan",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "Cyprus",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "Algeria",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "attributes": {}
+    },
+    {
+      "id": "Baku",
+      "type": "Location",
+      "source_sentence": "In 2018, with our first international store opening in Baku, we took strong steps in the global market, bringing Turkish fashion to the world.",
+      "attributes": {}
+    },
+    {
+      "id": "online store",
+      "type": "Concept/Initiative",
+      "source_sentence": "With our online store, we reach every corner of the world, oHering fashion lovers an unlimited shopping experience.",
+      "attributes": {}
+    },
+    {
+      "id": "STMT_1",
+      "type": "FactualStatement",
+      "statement": "With our original designs, high-quality fabric choices, and timeless elegance, we exist not just to dress women, but to oHer them a lifestyle!",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "source_sentence": "With our original designs, high-quality fabric choices, and timeless elegance, we exist not just to dress women, but to oHer them a lifestyle!"
+    },
+    {
+      "id": "STMT_2",
+      "type": "FactualStatement",
+      "statement": "Company G aims to make every woman feel special and powerful, oHering a wide collection in sizes 36-48, providing a unique fashion experience that caters to diHerent sizes and styles.",
+      "category": "Commitment/Goal",
+      "is_verifiable": false,
+      "source_sentence": "Company G aims to make every woman feel special and powerful, oHering a wide collection in sizes 36-48, providing a unique fashion experience that caters to diHerent sizes and styles.",
+      "structured_attributes": [
+        {
+          "attribute_name": "size_range",
+          "attribute_value": "36-48",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_3",
+      "type": "FactualStatement",
+      "statement": "With our innovative spirit, passion for fashion, and attention to detail, we inspire women's style journeys with brand new collections every season.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "source_sentence": "With our innovative spirit, passion for fashion, and attention to detail, we inspire women's style journeys with brand new collections every season."
+    },
+    {
+      "id": "STMT_7",
+      "type": "FactualStatement",
+      "statement": "Company G is not just a brand, it's a passion!",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "source_sentence": "Company G is not just a brand, it's a passion!"
+    },
+    {
+      "id": "STMT_9",
+      "type": "FactualStatement",
+      "statement": "With every order, we bring style and quality to your doorstep.",
+      "category": "Process",
+      "is_verifiable": false,
+      "source_sentence": "With every order, we bring style and quality to your doorstep.",
+      "structured_attributes": [
+        {
+          "attribute_name": "delivery_method",
+          "attribute_value": "doorstep",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "product_attributes",
+          "attribute_value": "style, quality",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "id": "STMT_10",
+      "type": "FactualStatement",
+      "statement": "Now you too can step into this world of elegance.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "source_sentence": "Now you too can step into this world of elegance."
+    },
+    {
+      "id": "STMT_11",
+      "type": "FactualStatement",
+      "statement": "Rediscover your style with Company G!",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "source_sentence": "Rediscover your style with Company G!"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Company G",
+      "target": "Turkey",
+      "relationship": "related_to",
+      "category": "Organizational, Geographic",
+      "is_verifiable": true,
+      "statement": "Today, with 70 stores and over 400 employees, we serve throughout Turkey and internationally with our stores abroad.",
+      "structured_attributes": [
+        {
+          "attribute_name": "store_count",
+          "attribute_value": "70",
+          "attribute_unit": "stores"
+        },
+        {
+          "attribute_name": "employee_count",
+          "attribute_value": "400",
+          "attribute_unit": "employees"
+        },
+        {
+          "attribute_name": "geographic_coverage",
+          "attribute_value": "Turkey and internationally",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "STMT_1",
+      "relationship": "has_claim",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "statement": "With our original designs, high-quality fabric choices, and timeless elegance, we exist not just to dress women, but to oHer them a lifestyle!"
+    },
+    {
+      "source": "Company G",
+      "target": "STMT_2",
+      "relationship": "has_claim",
+      "category": "Commitment/Goal",
+      "is_verifiable": false,
+      "statement": "Company G aims to make every woman feel special and powerful, oHering a wide collection in sizes 36-48, providing a unique fashion experience that caters to diHerent sizes and styles.",
+      "structured_attributes": [
+        {
+          "attribute_name": "size_range",
+          "attribute_value": "36-48",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "STMT_3",
+      "relationship": "has_claim",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "statement": "With our innovative spirit, passion for fashion, and attention to detail, we inspire women's style journeys with brand new collections every season."
+    },
+    {
+      "source": "Company G",
+      "target": "Türkiye",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "Kuwait",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "the UK",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "the United Arab Emirates",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "Saudi Arabia",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "Iraq",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "Azerbaijan",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "Cyprus",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "Algeria",
+      "relationship": "mentions",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "Baku",
+      "relationship": "related_to",
+      "category": "History, Geographic",
+      "is_verifiable": true,
+      "statement": "In 2018, with our first international store opening in Baku, we took strong steps in the global market, bringing Turkish fashion to the world.",
+      "structured_attributes": [
+        {
+          "attribute_name": "opening_year",
+          "attribute_value": "2018",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_location",
+          "attribute_value": "Baku",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "STMT_7",
+      "relationship": "has_claim",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "statement": "Company G is not just a brand, it's a passion!"
+    },
+    {
+      "source": "Company G",
+      "target": "online store",
+      "relationship": "related_to",
+      "category": "Process, Geographic",
+      "is_verifiable": false,
+      "statement": "With our online store, we reach every corner of the world, oHering fashion lovers an unlimited shopping experience.",
+      "structured_attributes": [
+        {
+          "attribute_name": "channel",
+          "attribute_value": "online store",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "coverage",
+          "attribute_value": "every corner of the world",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "STMT_9",
+      "relationship": "has_claim",
+      "category": "Process",
+      "is_verifiable": false,
+      "statement": "With every order, we bring style and quality to your doorstep.",
+      "structured_attributes": [
+        {
+          "attribute_name": "delivery_method",
+          "attribute_value": "doorstep",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "product_attributes",
+          "attribute_value": "style, quality",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Company G",
+      "target": "STMT_10",
+      "relationship": "has_claim",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "statement": "Now you too can step into this world of elegance."
+    },
+    {
+      "source": "Company G",
+      "target": "STMT_11",
+      "relationship": "has_claim",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "statement": "Rediscover your style with Company G!"
+    },
+    {
+      "source": "Türkiye",
+      "target": "Kuwait",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Türkiye",
+      "target": "the UK",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Türkiye",
+      "target": "the United Arab Emirates",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Türkiye",
+      "target": "Saudi Arabia",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Türkiye",
+      "target": "Iraq",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Türkiye",
+      "target": "Azerbaijan",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Türkiye",
+      "target": "Cyprus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Türkiye",
+      "target": "Algeria",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kuwait",
+      "target": "the UK",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kuwait",
+      "target": "the United Arab Emirates",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kuwait",
+      "target": "Saudi Arabia",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kuwait",
+      "target": "Iraq",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kuwait",
+      "target": "Azerbaijan",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kuwait",
+      "target": "Cyprus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Kuwait",
+      "target": "Algeria",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the UK",
+      "target": "the United Arab Emirates",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the UK",
+      "target": "Saudi Arabia",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the UK",
+      "target": "Iraq",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the UK",
+      "target": "Azerbaijan",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the UK",
+      "target": "Cyprus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the UK",
+      "target": "Algeria",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the United Arab Emirates",
+      "target": "Saudi Arabia",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the United Arab Emirates",
+      "target": "Iraq",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the United Arab Emirates",
+      "target": "Azerbaijan",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the United Arab Emirates",
+      "target": "Cyprus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "the United Arab Emirates",
+      "target": "Algeria",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Iraq",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Azerbaijan",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Cyprus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Saudi Arabia",
+      "target": "Algeria",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Iraq",
+      "target": "Azerbaijan",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Iraq",
+      "target": "Cyprus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Iraq",
+      "target": "Algeria",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Cyprus",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Azerbaijan",
+      "target": "Algeria",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    },
+    {
+      "source": "Cyprus",
+      "target": "Algeria",
+      "relationship": "related_to",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "structured_attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ]
+    }
+  ]
+}
