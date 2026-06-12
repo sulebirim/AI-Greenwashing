@@ -1,0 +1,237 @@
+{
+  "company_name": "Company G En",
+  "entities": [
+    {
+      "name": "Company G",
+      "type": "Company",
+      "source_sentence": "Founded in 1970, Company G continues to shape fashion as one of Turkey's most established and prestigious women's clothing brands."
+    },
+    {
+      "name": "Turkey",
+      "type": "Location",
+      "source_sentence": "Founded in 1970, Company G continues to shape fashion as one of Turkey's most established and prestigious women's clothing brands."
+    },
+    {
+      "name": "Türkiye",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "Kuwait",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "the UK",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "the United Arab Emirates",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "Saudi Arabia",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "Iraq",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "Azerbaijan",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "Cyprus",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "Algeria",
+      "type": "Location",
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "name": "Baku",
+      "type": "Location",
+      "source_sentence": "In 2018, with our first international store opening in Baku, we took strong steps in the global market, bringing Turkish fashion to the world."
+    },
+    {
+      "name": "online store",
+      "type": "Concept/Initiative",
+      "source_sentence": "With our online store, we reach every corner of the world, oHering fashion lovers an unlimited shopping experience."
+    }
+  ],
+  "factual_statements": [
+    {
+      "statement": "Founded in 1970, Company G continues to shape fashion as one of Turkey's most established and prestigious women's clothing brands.",
+      "category": "History",
+      "is_verifiable": true,
+      "subject": "Company G",
+      "attributes": [
+        {
+          "attribute_name": "founding_year",
+          "attribute_value": "1970",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "Founded in 1970, Company G continues to shape fashion as one of Turkey's most established and prestigious women's clothing brands."
+    },
+    {
+      "statement": "With our original designs, high-quality fabric choices, and timeless elegance, we exist not just to dress women, but to oHer them a lifestyle!",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": "Company G",
+      "attributes": [],
+      "source_sentence": "With our original designs, high-quality fabric choices, and timeless elegance, we exist not just to dress women, but to oHer them a lifestyle!"
+    },
+    {
+      "statement": "Company G aims to make every woman feel special and powerful, oHering a wide collection in sizes 36-48, providing a unique fashion experience that caters to diHerent sizes and styles.",
+      "category": "Commitment/Goal",
+      "is_verifiable": false,
+      "subject": "Company G",
+      "attributes": [
+        {
+          "attribute_name": "size_range",
+          "attribute_value": "36-48",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "Company G aims to make every woman feel special and powerful, oHering a wide collection in sizes 36-48, providing a unique fashion experience that caters to diHerent sizes and styles."
+    },
+    {
+      "statement": "With our innovative spirit, passion for fashion, and attention to detail, we inspire women's style journeys with brand new collections every season.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": "Company G",
+      "attributes": [],
+      "source_sentence": "With our innovative spirit, passion for fashion, and attention to detail, we inspire women's style journeys with brand new collections every season."
+    },
+    {
+      "statement": "Today, with 70 stores and over 400 employees, we serve throughout Turkey and internationally with our stores abroad.",
+      "category": "Organizational, Geographic",
+      "is_verifiable": true,
+      "subject": "Company G",
+      "attributes": [
+        {
+          "attribute_name": "store_count",
+          "attribute_value": "70",
+          "attribute_unit": "stores"
+        },
+        {
+          "attribute_name": "employee_count",
+          "attribute_value": "400",
+          "attribute_unit": "employees"
+        },
+        {
+          "attribute_name": "geographic_coverage",
+          "attribute_value": "Turkey and internationally",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "Today, with 70 stores and over 400 employees, we serve throughout Turkey and internationally with our stores abroad."
+    },
+    {
+      "statement": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria.",
+      "category": "Achievement",
+      "is_verifiable": false,
+      "subject": "Company G",
+      "attributes": [
+        {
+          "attribute_name": "countries",
+          "attribute_value": "Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, Algeria",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "Besides Türkiye, we are proud to be the number one choice for women in many countries including Kuwait, the UK, the United Arab Emirates, Saudi Arabia, Iraq, Azerbaijan, Cyprus, and Algeria."
+    },
+    {
+      "statement": "In 2018, with our first international store opening in Baku, we took strong steps in the global market, bringing Turkish fashion to the world.",
+      "category": "History, Geographic",
+      "is_verifiable": true,
+      "subject": "Company G",
+      "attributes": [
+        {
+          "attribute_name": "opening_year",
+          "attribute_value": "2018",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "store_location",
+          "attribute_value": "Baku",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "In 2018, with our first international store opening in Baku, we took strong steps in the global market, bringing Turkish fashion to the world."
+    },
+    {
+      "statement": "Company G is not just a brand, it's a passion!",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": "Company G",
+      "attributes": [],
+      "source_sentence": "Company G is not just a brand, it's a passion!"
+    },
+    {
+      "statement": "With our online store, we reach every corner of the world, oHering fashion lovers an unlimited shopping experience.",
+      "category": "Process, Geographic",
+      "is_verifiable": false,
+      "subject": "Company G",
+      "attributes": [
+        {
+          "attribute_name": "channel",
+          "attribute_value": "online store",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "coverage",
+          "attribute_value": "every corner of the world",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "With our online store, we reach every corner of the world, oHering fashion lovers an unlimited shopping experience."
+    },
+    {
+      "statement": "With every order, we bring style and quality to your doorstep.",
+      "category": "Process",
+      "is_verifiable": false,
+      "subject": "Company G",
+      "attributes": [
+        {
+          "attribute_name": "delivery_method",
+          "attribute_value": "doorstep",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "product_attributes",
+          "attribute_value": "style, quality",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "With every order, we bring style and quality to your doorstep."
+    },
+    {
+      "statement": "Now you too can step into this world of elegance.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": null,
+      "attributes": [],
+      "source_sentence": "Now you too can step into this world of elegance."
+    },
+    {
+      "statement": "Rediscover your style with Company G!",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": "Company G",
+      "attributes": [],
+      "source_sentence": "Rediscover your style with Company G!"
+    }
+  ],
+  "entity_count": 13,
+  "statement_count": 12
+}

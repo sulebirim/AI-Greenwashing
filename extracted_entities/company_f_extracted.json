@@ -1,0 +1,350 @@
+{
+  "company_name": "Company F En",
+  "entities": [
+    {
+      "name": "Company F",
+      "type": "Person",
+      "source_sentence": "Company F, who began working on a commission basis in 1950, quickly became Istanbul's most sought-after women's tailor."
+    },
+    {
+      "name": "Company F",
+      "type": "Company",
+      "source_sentence": "At Company F, preparations for each season begin a year in advance."
+    },
+    {
+      "name": "Istanbul",
+      "type": "Location",
+      "source_sentence": "Company F, who began working on a commission basis in 1950, quickly became Istanbul's most sought-after women's tailor."
+    },
+    {
+      "name": "Turkish women",
+      "type": "Target_Group",
+      "source_sentence": "With over 20 years of experience in fitting, he creates patterns tailored to the measurements of Turkish women, offering comfortable garments as if they were custom-made, meticulous stitching, high-quality fabrics, and an affordable price list."
+    },
+    {
+      "name": "evening wear collection",
+      "type": "Product/Product_Line",
+      "source_sentence": "Our evening wear collection allows for stylish and comfortable outfits for special occasions, office wear for work environments, and casual styles for all aspects of life."
+    },
+    {
+      "name": "office wear",
+      "type": "Product/Product_Line",
+      "source_sentence": "Our evening wear collection allows for stylish and comfortable outfits for special occasions, office wear for work environments, and casual styles for all aspects of life."
+    },
+    {
+      "name": "casual styles",
+      "type": "Product/Product_Line",
+      "source_sentence": "Our evening wear collection allows for stylish and comfortable outfits for special occasions, office wear for work environments, and casual styles for all aspects of life."
+    },
+    {
+      "name": "timeless classics",
+      "type": "Concept/Initiative",
+      "source_sentence": "In our timeless classics, we prioritize 'elegance', 'simplicity', 'attention to detail', and in short, 'quality'."
+    },
+    {
+      "name": "alteration service",
+      "type": "Concept/Initiative",
+      "source_sentence": "Our alteration service in all our stores ensures that the garment fits perfectly to the desired size."
+    },
+    {
+      "name": "ready-to-wear production",
+      "type": "Concept/Initiative",
+      "source_sentence": "In 1972, he transferred his expertise in fitting and pattern making, gained from bespoke tailoring, to ready-to-wear production with the same meticulousness."
+    },
+    {
+      "name": "bespoke tailoring",
+      "type": "Concept/Initiative",
+      "source_sentence": "In 1972, he transferred his expertise in fitting and pattern making, gained from bespoke tailoring, to ready-to-wear production with the same meticulousness."
+    }
+  ],
+  "factual_statements": [
+    {
+      "statement": "Company F, who began working on a commission basis in 1950, quickly became Istanbul's most sought-after women's tailor.",
+      "category": "History, Vague_Claim",
+      "is_verifiable": true,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "start_year",
+          "attribute_value": "1950",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "employment_type",
+          "attribute_value": "commission basis",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "Company F, who began working on a commission basis in 1950, quickly became Istanbul's most sought-after women's tailor."
+    },
+    {
+      "statement": "In 1972, he transferred his expertise in fitting and pattern making, gained from bespoke tailoring, to ready-to-wear production with the same meticulousness.",
+      "category": "History",
+      "is_verifiable": true,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "year",
+          "attribute_value": "1972",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "expertise_area",
+          "attribute_value": "fitting and pattern making",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "previous_method",
+          "attribute_value": "bespoke tailoring",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "new_method",
+          "attribute_value": "ready-to-wear production",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "In 1972, he transferred his expertise in fitting and pattern making, gained from bespoke tailoring, to ready-to-wear production with the same meticulousness."
+    },
+    {
+      "statement": "With over 20 years of experience in fitting, he creates patterns tailored to the measurements of Turkish women, offering comfortable garments as if they were custom-made, meticulous stitching, high-quality fabrics, and an affordable price list.",
+      "category": "Process",
+      "is_verifiable": true,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "experience_years",
+          "attribute_value": "over 20",
+          "attribute_unit": "years"
+        },
+        {
+          "attribute_name": "activity",
+          "attribute_value": "creates patterns tailored to measurements of Turkish women",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "garment_comfort",
+          "attribute_value": "comfortable",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "stitching_quality",
+          "attribute_value": "meticulous",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "fabric_quality",
+          "attribute_value": "high-quality",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "price_level",
+          "attribute_value": "affordable",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "With over 20 years of experience in fitting, he creates patterns tailored to the measurements of Turkish women, offering comfortable garments as if they were custom-made, meticulous stitching, high-quality fabrics, and an affordable price list."
+    },
+    {
+      "statement": "While change has continued at Company F for 75 years, our commitment to quality has remained the same.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "duration_years",
+          "attribute_value": "75",
+          "attribute_unit": "years"
+        }
+      ],
+      "source_sentence": "While change has continued at Company F for 75 years, our commitment to quality has remained the same."
+    },
+    {
+      "statement": "At Company F, preparations for each season begin a year in advance.",
+      "category": "Process",
+      "is_verifiable": true,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "preparation_lead_time",
+          "attribute_value": "1",
+          "attribute_unit": "year"
+        }
+      ],
+      "source_sentence": "At Company F, preparations for each season begin a year in advance."
+    },
+    {
+      "statement": "Each season, 35,000 different fabrics are examined, 1,000 fabrics are tested in detail, and approximately 150 different fabrics are used in each collection.",
+      "category": "Metric",
+      "is_verifiable": true,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "fabrics_examined",
+          "attribute_value": "35000",
+          "attribute_unit": "fabrics"
+        },
+        {
+          "attribute_name": "fabrics_tested",
+          "attribute_value": "1000",
+          "attribute_unit": "fabrics"
+        },
+        {
+          "attribute_name": "fabrics_used",
+          "attribute_value": "150",
+          "attribute_unit": "fabrics"
+        }
+      ],
+      "source_sentence": "Each season, 35,000 different fabrics are examined, 1,000 fabrics are tested in detail, and approximately 150 different fabrics are used in each collection."
+    },
+    {
+      "statement": "Basic patterns, established through years of experience, are revised down to the millimeter for each type of fabric.",
+      "category": "Process",
+      "is_verifiable": true,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "revision_precision",
+          "attribute_value": "millimeter",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "Basic patterns, established through years of experience, are revised down to the millimeter for each type of fabric."
+    },
+    {
+      "statement": "Starting six months before the season, around 1000 sample models are sewn and filtered, resulting in 400 final models being produced.",
+      "category": "Metric",
+      "is_verifiable": true,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "lead_time_months",
+          "attribute_value": "6",
+          "attribute_unit": "months"
+        },
+        {
+          "attribute_name": "sample_models_sewn",
+          "attribute_value": "1000",
+          "attribute_unit": "models"
+        },
+        {
+          "attribute_name": "final_models_produced",
+          "attribute_value": "400",
+          "attribute_unit": "models"
+        }
+      ],
+      "source_sentence": "Starting six months before the season, around 1000 sample models are sewn and filtered, resulting in 400 final models being produced."
+    },
+    {
+      "statement": "The garments are sewn by tailors who have worked with Company F for many years and have been trained within this establishment.",
+      "category": "Process",
+      "is_verifiable": true,
+      "subject": "Company F",
+      "attributes": [
+        {
+          "attribute_name": "tailors_experience",
+          "attribute_value": "many years",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "training_location",
+          "attribute_value": "Company F establishment",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "The garments are sewn by tailors who have worked with Company F for many years and have been trained within this establishment."
+    },
+    {
+      "statement": "Our alteration service in all our stores ensures that the garment fits perfectly to the desired size.",
+      "category": "Process",
+      "is_verifiable": true,
+      "subject": "alteration service",
+      "attributes": [
+        {
+          "attribute_name": "service_type",
+          "attribute_value": "alteration",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "coverage",
+          "attribute_value": "all stores",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "outcome",
+          "attribute_value": "perfect fit",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "Our alteration service in all our stores ensures that the garment fits perfectly to the desired size."
+    },
+    {
+      "statement": "We consider this detail in all our designs.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": null,
+      "attributes": [],
+      "source_sentence": "We consider this detail in all our designs."
+    },
+    {
+      "statement": "In our timeless classics, we prioritize 'elegance', 'simplicity', 'attention to detail', and in short, 'quality'.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": "timeless classics",
+      "attributes": [],
+      "source_sentence": "In our timeless classics, we prioritize 'elegance', 'simplicity', 'attention to detail', and in short, 'quality'."
+    },
+    {
+      "statement": "We create models that allow our customers to adapt fashion to themselves, feel happy and 'trendy', and reflect the trends of the day.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": null,
+      "attributes": [],
+      "source_sentence": "We create models that allow our customers to adapt fashion to themselves, feel happy and 'trendy', and reflect the trends of the day."
+    },
+    {
+      "statement": "Our evening wear collection allows for stylish and comfortable outfits for special occasions, office wear for work environments, and casual styles for all aspects of life.",
+      "category": "Product_Info",
+      "is_verifiable": true,
+      "subject": "evening wear collection",
+      "attributes": [
+        {
+          "attribute_name": "collection_type",
+          "attribute_value": "evening wear",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "features",
+          "attribute_value": "stylish, comfortable",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "use_case",
+          "attribute_value": "special occasions",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "includes_product_line",
+          "attribute_value": "office wear",
+          "attribute_unit": null
+        },
+        {
+          "attribute_name": "includes_product_line",
+          "attribute_value": "casual styles",
+          "attribute_unit": null
+        }
+      ],
+      "source_sentence": "Our evening wear collection allows for stylish and comfortable outfits for special occasions, office wear for work environments, and casual styles for all aspects of life."
+    },
+    {
+      "statement": "The latest trends and the most vibrant colors are always available at Company F, without worrying about size.",
+      "category": "Vague_Claim",
+      "is_verifiable": false,
+      "subject": "Company F",
+      "attributes": [],
+      "source_sentence": "The latest trends and the most vibrant colors are always available at Company F, without worrying about size."
+    }
+  ],
+  "entity_count": 11,
+  "statement_count": 15
+}
