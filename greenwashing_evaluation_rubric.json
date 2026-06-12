@@ -1,0 +1,77 @@
+{
+  "greenwashing_evaluation_rubric": {
+    "vagueness": {
+      "definition": "Using ambiguous language or broad terms to evoke feelings of environmental consciousness without providing actual evidence, specific metrics, or clear definitions.",
+      "academic_mapping": [
+        "Sin of Vagueness (TerraChoice)"
+      ],
+      "detection_indicators": [
+        "Use of buzzwords like 'eco-friendly', 'green', 'all-natural', 'sustainable', or 'conscious' without specific definitions.",
+        "Mentioning 'recycled materials' without stating the exact percentage or type of material.",
+        "Lack of specific data points, dates, or verifiable metrics to back up a claim."
+      ],
+      "fashion_example": "Introducing our new conscious collection, made with earth-friendly materials for a greener tomorrow.",
+      "evaluation_question": "Does the text rely on broad, undefined sustainability buzzwords without providing specific percentages, materials, or methodologies?"
+    },
+    "misleading": {
+      "definition": "Spreading information that is intentionally untrue, fabricated, or completely unsubstantiated, resulting in an inaccurate picture of environmental impact.",
+      "academic_mapping": [
+        "Sin of Fibbing (TerraChoice)",
+        "Sin of No Proof (TerraChoice)",
+        "Sin of Worshipping False Labels (TerraChoice)",
+        "Firm/Product-level Claim Greenwashing (De Freitas Netto)"
+      ],
+      "detection_indicators": [
+        "Fabricated or hallucinated metrics (e.g., claiming 'zero carbon' or '100% water reduction' without proof).",
+        "Invented or self-created certifications masquerading as third-party endorsements.",
+        "Citing specific environmental achievements or emission reductions that cannot be verified in the company's knowledge graph."
+      ],
+      "fashion_example": "This jacket is certified by the Global Earth Protectors Alliance and reduces ocean plastic by 500%.",
+      "evaluation_question": "Does the text contain fabricated metrics, false certifications, or specific claims that lack proof/verification in the underlying source data?"
+    },
+    "concealment": {
+      "definition": "Selectively presenting facts by highlighting minor environmental advantages while downplaying or omitting massive, harmful environmental impacts (hidden trade-offs).",
+      "academic_mapping": [
+        "Sin of the Hidden Trade-off (TerraChoice)",
+        "Fuzzy Reporting (Firm-Level Typology)"
+      ],
+      "detection_indicators": [
+        "Highlighting sustainable packaging while ignoring the unsustainable nature of the garment itself.",
+        "Focusing heavily on a single eco-attribute (e.g., organic cotton) while ignoring heavy chemical dyes, water waste, or high carbon emissions in the supply chain.",
+        "Masking poor overall company environmental performance behind a single positive statistic."
+      ],
+      "fashion_example": "Our new jeans are shipped in 100% recycled cardboard boxes! (Ignoring that the jeans require 10,000 liters of water and toxic dyes to produce).",
+      "evaluation_question": "Does the text highlight a single 'green' attribute (like packaging or one material) in a way that distracts from the broader, more damaging environmental footprint of the product?"
+    },
+    "overselling": {
+      "definition": "Stressing or exaggerating small-scale, inconsequential environmental initiatives, inflating their perceived importance beyond their true contribution to sustainability.",
+      "academic_mapping": [
+        "Sin of Lesser of Two Evils (TerraChoice)",
+        "Ad Bluster (Firm-Level Typology)",
+        "Dirty Business (Firm-Level Typology)",
+        "Textual Executional Greenwashing (De Freitas Netto)"
+      ],
+      "detection_indicators": [
+        "Framing a tiny capsule collection as proof that the entire fast-fashion brand is 'saving the planet'.",
+        "Using heavy, dramatic nature-evoking language (Textual Executional Greenwashing like 'pristine oceans', 'mother earth') to describe basic or minimal sustainability efforts.",
+        "Promoting 'sustainable' fast-fashion items that still contribute to a fundamentally unsustainable overconsumption model."
+      ],
+      "fashion_example": "By using 5% recycled polyester in these t-shirts, we are leading the revolution to heal Mother Earth and completely transform the fashion industry.",
+      "evaluation_question": "Does the text use exaggerated, dramatic language to inflate the importance of a minor initiative, or frame a fundamentally unsustainable business model as an eco-champion?"
+    },
+    "irrelevance": {
+      "definition": "Including truthful information that adds no substantive value to environmental stewardship, often restating what is already legally required as if it were a voluntary achievement.",
+      "academic_mapping": [
+        "Sin of Irrelevance (TerraChoice)",
+        "It’s the Law, Stupid! (Firm-Level Typology)"
+      ],
+      "detection_indicators": [
+        "Boasting about the absence of chemicals or materials that have already been legally banned for years (e.g., CFC-free).",
+        "Presenting mandatory compliance with existing labor or environmental laws as a pioneering, voluntary sustainability initiative.",
+        "Stating facts that are true but entirely unhelpful for a consumer trying to make a comparative eco-friendly choice."
+      ],
+      "fashion_example": "We guarantee our factories pay the legal minimum wage and our clothes are 100% free of banned CFC gases.",
+      "evaluation_question": "Does the text boast about practices, chemical bans, or standards that are actually just basic legal requirements rather than voluntary sustainability efforts?"
+    }
+  }
+}
